@@ -1,0 +1,125 @@
+FENÊTRE: L1644 H850 / X136 Y170
+
+CHANGEMENT DE FENETRE: L66 H66 / X632 Y88
+                                 X1210
+ICONE:L74 H88 / X790+7 Y96
+                     
+ICONE SURVOL:L82 H94 / X788+5 Y66
+
+TEXTE (INVENTORY BESTIARY QUEST): DICO 18 / X388 Y110
+                                            X1300
+                                            X852 Y18
+
+TEXTE (Moove,Return):DICO 18 / X1292 Y978
+                               X1676
+
+
+ICONE CATEGORIE:L82 H96 / X778+16 Y90 
+
+ICONE CATEGORIE SELECTIONNER:L82 H96 / X778+16 Y64 
+
+
+
+--------------------------------------------------INVENTAIRE-----------------------------------------------------
+
+TEXTE TITRE DESCRI: LILIAN 19 / X888 Y726
+TEXTE DESCRI: LILIAN 19 / X744 Y790
+
+
+
+TOTEM POULPE / AIGLE: L118 H118 / X786 Y302  
+                                       Y530
+
+SELECTION POULPE / AIGLE: L146 H138 / X772 Y292
+                                           Y518
+
+
+TOTEM CAMÉLÉON / COUCHON: L118 H118 / X642 Y418
+                                      X914
+
+SELECTION CAMELEON / CONCHON: L146 H138 / X628 Y408
+                                          X902   
+
+
+
+EMPLACEMENT ANNEAUX: L84 H80 / X370 Y592+172
+                               X470 Y506+172
+
+SELECTION EMPLACEMENT ANNEAUX: L112 H100 / X358 Y582+172
+                                           X456 Y496+172
+
+
+
+EMPLACEMENT BATON: L80 H370 / X266 Y282
+
+SELACTION EMPLACEMENT BATON: L112 H394 / X250 Y268
+
+
+
+EMPLACEMENT CAPTURABLE: L138 H138 / X1086+158 Y306
+                                              Y496
+
+SELECTION EMPLACEMENT CAPTURABLE: L152 H148 / X1076+10 Y302+192              
+
+POSITION ANIMAUX : L106 Y76 / X1102+160 Y338+194
+
+                                             
+BOX OU METTRE LE NOMBRE: L28 H28 / X1184+176 Y404+198
+
+EMPLACEMENT CAPTURABLE EMPLACEMENT NOMBRES: LILIAN 14 / X1190+176 Y408+198
+
+
+
+-------------------------------------------QUEST--------------------------------------------
+
+
+TEXTE TITRE QUETE: LILIAN 19 / X342 Y470+100
+
+TITRE QUETE DESCRI: LILIAN 19 / X1210 Y54
+
+DESCRIPITION: LILIAN 19 / X1104 Y378
+
+
+
+SELECTION: L704 H84 / X282 Y452+100
+
+
+
+CHARA CADRE: L188 H136 / X328+202 Y246
+                                  Y218
+
+
+
+--------------------------------------------------BESTIARY----------------------------------------------------------
+
+
+
+TEXTE TITRE QUETE: LILIAN 19 / X342 Y470+100
+
+TITRE QUETE DESCRI: LILIAN 19 / X1210 Y54
+
+DESCRIPITION: LILIAN 19 / X1104 Y378
+
+
+
+EMPLACEMENT ANIMAUX: L162 H162 / X320+66 Y426+64
+
+
+
+ICONE NEUTRE: L104 H100 / X488+184 Y274
+
+ICONE SURVOL : L104 H100 / X488+184 Y218
+
+
+
+EMPLACEMENT MOB / FAUNE: L100 H120 / X354+228 Y448+228
+
+ 
+
+
+                                                                
+
+
+
+
+

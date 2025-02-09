@@ -1,0 +1,9 @@
+[path]
+../Ressources/Textures/chara/shamane/spritesheet_shamane.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+shamane 0 0 164 164 4 0.5 0
+shamane_magic 0 328 164 170 6 0.5 0
+shamane_dialogue 0 164 164 164 4 0.5 0
+[end]

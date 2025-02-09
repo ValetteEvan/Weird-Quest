@@ -1,0 +1,269 @@
+Point d'origine en haut à gauche (je préfère préciser au cas-où même si c'est normalement ça mais on sait jamais you know ?)
+
+
+Sprites hors sprite sheet :
+
+fishing_background
+Taille : 1920x1080 px
+
+fishing_shader
+Tailles : 1920x1080 px
+
+waves
+Taille : 1920x146 px (PO : X=0 Y=98)
+5 frames
+
+
+
+Spritesheet :
+
+Ligne Y max pour les coquillages et cailloux : Y=510
+
+sea_shell_1
+Taille : 70x36 px
+
+- 36 px -
+
+sea_shell_2
+Taille : 52x42 px
+
+- 78 px -
+
+sea_shell_3
+Taille : 48x44 px
+
+- 122 px -
+
+sea_shell_4
+Taille : 56x50 px
+
+- 172 px -
+
+rock_1
+Taille : 62x30 px
+
+- 202 px -
+
+rock_2
+Taille : 120x40 px
+
+- 242 px -
+
+rock_3
+Taille : 38x22 px
+
+- 264 px -
+
+rock_4
+Taille : 32x18 px
+
+- 282 px -
+
+
+
+Ligne Y max pour le gros caillou : Y=438
+
+big_rock
+Taille : 498x194 px
+
+- 476 px -
+
+
+
+Ligne Y max pour les coraux et algues Y=400
+
+asset_1
+Taille : 152x300
+
+asset_2
+Taille : 160x300
+
+asset_3
+Taille : 122x300
+
+asset_4
+Taille : 126x300
+
+asset_5
+Taille : 162x300
+
+- 776 px -
+
+
+
+Ligne Y max pour les algues en avant-plan Y=376
+
+algues: 8 frames (de frame 1 à 3 c'est une animation à jouer en 0.5, pareil pour la frame 7 à 8)
+
+L 202 H 704
+
+- 1480 px -
+
+
+
+Clouds : Faire défiler sur l'axe Y=0
+
+cloud_1
+cloud_2
+cloud_3
+cloud_4
+Tailles : 572x110 px
+
+- 1590 px -
+
+
+
+ring_idle
+Taille : 50x50 px
+
+- 1640 px -
+
+ring_flip
+Taille : 50x50 px
+
+- 1690 px -
+
+
+
+phaos_head
+Taille : 130x114 px (à placer sur la ligne Y=10 (par rapport au point d'origine))
+
+- 1804 px -
+
+phaos_head_happy
+Taille : 130x114 px
+9 frames
+
+- 1918 px -
+
+phaos_head_upset
+Taille : 130x114 px
+6 frames
+
+- 2032 px -
+
+
+joy_fish_idle
+Taille : 86x62 px
+4 frames
+
+- 2094 px -
+
+joy_fish_upset
+Taille : 86x62 px
+4 frames
+
+- 2156 px -
+
+joy_fish_following
+Taille : 86x62 px
+4 frames
+
+- 2218 px -
+
+bubbles (particules)
+Taille : 15x15 px
+3 bulles
+
+- 2248 px -
+
+- 2297 px -
+
+
+sadness_fish_idle
+Taille : 89x57 px
+4 frames
+
+- 2354 px -
+
+sadness_fish_upset
+Taille : 89x57 px
+4 frames
+
+- 2411 px -
+
+sadness_fish_following
+Taille : 89x57 px
+4 frames
+
+- 2468 px -
+
+sadness_fish_fleeing
+Taille : 89x57 px
+4 frames
+
+- 2525 px -
+
+- 2550 px -
+
+
+
+power_effect_zone
+Taille : 600x600 px (PO (milieu du ring) : X=25 Y=25)
+
+- 3150 px -
+
+
+fx_joy_power
+Taille : 152x152 px
+
+- 3302 px -
+
+fx_splash
+Taille : 89x40 px (Apparait sur la ligne Y=110 à l'endroit où le poisson ou l'anneau plonge/sort de l'eau)
+11 frames
+
+- 3342 px -
+
+fx_stars
+Taille : 55x58 px (Apparait au milieu de l'anneau quand le poisson est attrapé (X=25 Y=25)
+17 frames
+
+- 3400 px -
+
+fx_ring_death_feedback
+Taille : 102x101 px (Apparait à la place de l'anneau lorsque le poisson mange l'anneau)
+8 frames
+
+- 3501 px -
+
+
+
+moulinet_base
+Taille : 84x84 px (PO : X=1784 Y=944)
+
+- 3585 px -
+
+moulinet_manche
+Taille : 26x80 px (PO (milieu de la base) : X=42 Y=42)
+
+- 3665 px -
+
+joy_power_button
+Taille : 72x72 px (PO : X=30 Y=980)
+
+- 3737 px -
+
+press_lb+rb
+Taille : 366x140 px
+2 frames
+
+- 3877 px -
+
+press_a
+Taille : 264x140 px
+2 frames
+
+- 4017 px -
+
+press_lt
+Taille : 264x140 px
+2 frames
+
+- 4157 px -
+
+press_rt
+Taille : 264x140 px
+2 frames
+
+- 4297 px -

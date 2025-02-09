@@ -1,0 +1,27 @@
+[path]
+../Ressources/Textures/Fishing/spritesheet.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+Fishing_SeaWeed1 0 776 202 704 2 0.5 0
+Fishing_SeaWeed2 1212 776 202 704 1 0.5 0
+Fishing_RingMovement 0 1590 50 50 3 0.3 0
+Fishing_RingCapture 0 1640 50 50 3 0.1 0
+Fishing_PhaosWin 0 1804 130 114 8 0.1 0
+Fishing_PhaosLose 0 1918 130 114 5 0.1 0
+Fishing_JoyIdle 0 2032 86 62 3 0.3 0
+Fishing_JoyUpset 0 2094 86 62 3 0.3 0
+Fishing_JoyFollow 0 2156 86 62 3 0.3 0
+Fishing_SadnessIdle 0 2297 86 56 3 0.3 0
+Fishing_SadnessUpset 0 2354 86 56 3 0.3 0
+Fishing_SadnessFollow 0 2411 86 56 3 0.3 0
+Fishing_SadnessFlee 0 2468 86 56 3 0.3 0
+Fishing_PowerZone 0 3150 152 152 6 0.1 0
+Fishing_Splash 0 3302 89 40 12 0.1 0
+Fishing_Stars 0 3342 55 58 18 0.1 0
+Fishing_Death 0 3400 102 101 7 0.1 0
+Fishing_PressBumps 0 3737 366 140 1 0.8 0
+Fishing_PressA 0 3877 264 140 1 0.8 0
+Fishing_PressLT 0 4017 264 140 3 0.8 0
+Fishing_PressRT 0 4157 264 140 3 0.8 0
+[end]

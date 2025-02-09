@@ -1,0 +1,27 @@
+Sprite sheet petit démon tristesse:
+
+0
+
+Anim déplacement 2 frames : L108 H 90
+
+90
+91
+
+Anim d'attaque 8 frames : L 112 H 94
+
+184
+185
+
+Anim de mort 13 frames : L124 H136
+
+320
+321
+
+Particules de traîné du mob : L58 H14
+
+334
+335
+
+Frame d'impact 1 frame L108 H112
+
+446

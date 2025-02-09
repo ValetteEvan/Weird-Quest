@@ -1,0 +1,23 @@
+-COEUR:L18 H15 / X19 61Y / ecart entres le coeur de X23
+
+
+-EMPLACEMENT POUVOIR ANNEAUX:L54 H54 / X22 Y42 
+
+
+-OMBRE SUR LES ANNEAUX L11 H11 / JOIE: X43 Y82 / TRISTE: X62 Y64 / PEUR: X25 Y64 / COLERE: X43 Y45
+
+
+
+
+
+                   -------------------------------------------------------------------------
+
+X2
+
+-COEUR:L36 H30 / X19 61Y / ecart entres le coeur de X23
+
+
+-EMPLACEMENT POUVOIR ANNEAUX:L108 H108 / X22 Y42 
+
+
+-OMBRE SUR LES ANNEAUX L22 H22 / JOIE: X43 Y82 / TRISTE: X62 Y64 / PEUR: X25 Y64 / COLERE: X43 Y45

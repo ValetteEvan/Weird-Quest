@@ -1,0 +1,51 @@
+COORDONER ETAGE PORTE
+
+
+PORTE:
+
+-TAILLE: 252x ; 196y
+
+-POSIONTION BASE: 822x ; 324y
+
+-POSIONTION FINAL: 822x ; 142y
+
+
+-5 FRAME
+
+
+-derrière le decore devant les escalier
+
+
+ESCALIER:
+
+-TAILLE: 228x ; 180y
+
+-POSIONTION BASE: 846x ; 332y
+
+-derrière le decore et la porte
+
+
+TORCHE GAUCHE:
+
+-TAILLE: 90x ; 152y
+
+-POSIONTION BASE: 700x ; 294y
+
+-13 FRAME
+
+
+TORCHE DROITE:
+
+-TAILLE: 90x ; 152y
+
+-POSIONTION BASE: 1130x ; 294y
+
+13 FRAME
+
+(les torche boucle a la 7ème frames)
+
+SYMBOLE:
+
+-TAILLE: 614x ; 614y
+
+-POSIONTION BASE: 668x ; 146y

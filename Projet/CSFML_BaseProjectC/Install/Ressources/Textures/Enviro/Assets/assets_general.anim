@@ -1,0 +1,13 @@
+[path]
+../Ressources/Textures/Enviro/Assets/assets_general.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+general_fountain 0 0 312 324 3 0.5 0
+general_flower 0 674 14 14 3 0.5 0
+general_fish 0 1930 64 42 3 0.2 0
+general_fishing_spot 0 2604 252 192 8 0.1 0
+general_bubbles 0 2796 46 44 9 0.1 0
+general_ground_notes 0 2840 60 98 3 0.2 0
+general_floating_notes 0 2938 84 86 3 0.2 0
+[end]

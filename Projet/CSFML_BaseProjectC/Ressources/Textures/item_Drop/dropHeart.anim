@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/item_Drop/sprite_sheets.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+animHeartDrop 0 0 36 44 6 0.2 0 
+[end]

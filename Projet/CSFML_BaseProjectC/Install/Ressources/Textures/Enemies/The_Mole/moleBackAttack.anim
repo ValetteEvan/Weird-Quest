@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/Enemies/The_Mole/The_Mole.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+moleBackAttack      0     454     70     66       3       0.2      0
+[end]

@@ -1,0 +1,10 @@
+[path]
+../Ressources/Textures/Ring/ring.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+ringAttract 0 32 65 62 2 0.1 0
+ringRepulse 0 94 65 62 2 0.1 0
+ringStasis 0 156 65 62 2 0.1 0
+ringDestruct 0 218 65 62 2 0.1 0
+[end]

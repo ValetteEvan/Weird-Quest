@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/dialogBoxTex.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+dialogBoxTex 0 0 234 74 3 0.5 0
+[end]

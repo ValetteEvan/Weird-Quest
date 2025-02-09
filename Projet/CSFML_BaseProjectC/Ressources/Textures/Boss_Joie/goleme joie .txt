@@ -1,0 +1,131 @@
+sprite sheet golem joie :
+
+
+0
+
+anim d'éveil du golem : 9 frames L164 H270
+
+270
+271
+
+anim éveil des poings : 6 frames L192 H200
+
+470
+471
+
+anim éveil du disque: 4 frames L228 H 214
+
+684
+685
+
+poings 3/4 dos : 1 frame L128 H132
+
+816
+817
+
+poings face: 1 frame L98 H98 
+
+914
+915
+
+poings 3/4 face : 1 frame L112 h142
+
+1056
+1057
+
+disque 3/4 face ( et dos les deux sont pareils) 1 frame: L94 H92
+
+1148
+1149
+
+disque face : 1 frame L92 H62
+
+1210
+1211
+
+anim iddle 3/4 face: 3 frames L172 H268
+
+(temps anim a voir mais 0.2 par frame)
+
+1478
+1479
+
+anim iddle 3/4 dos: 3 frames : L172 H268
+
+1746
+1747
+
+anim iddle face: 3 frames: L164 H264
+
+2010
+2011
+
+anim attract face : 6 frames (POUR TOUTES LES ANIM D'ATTRACT JOUER L'IDDLE APRES LA DERNIERE FRAME ET METTRE L'HALO SUR LA PREMIERE FRAME D'IDDLE) L234 H328
+ps: les frames de charges de l'attract ( 3 et 4 ème frames a répeter)
+
+2338
+2339
+
+anim attract 3/4 dos: 7 frames L292 H306
+
+2644
+2645
+
+anim 3/4 face: 6 frames  L272 H322
+
+2966
+2967
+
+halo attract; 1 frame: L494 H494
+
+3460
+3461
+
+anim saut face: 6 frames  L164 H328
+
+3788
+3789
+
+anim saut 3/4 face: 6frames L172 H306
+
+4094
+4095
+
+anim saut 3/4 dos: 6 frames L 174 H364
+
+4458
+4459
+
+fx impact de saut: 4 frames: L512 H406
+
+4864
+4865
+
+fx slash : 4 frames L 148 H172 
+
+5036
+5037
+
+fx impact mains qui claquent: 5 frames L222 H238
+
+5274
+5275
+
+anim de mort: 9 frames: L164 H270
+
+5544
+5545
+
+fx de stun;  3 frames L188 H118
+
+5662
+
+
+
+
+
+
+
+
+
+

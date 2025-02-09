@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/lighthouse_out/flower.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+loading	0	0	14	16	3	0.5		0
+[end]

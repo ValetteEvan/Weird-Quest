@@ -1,0 +1,134 @@
+Point d'origine en haut à gauche (je préfère préciser au cas-où même si c'est normalement ça mais on sait jamais you know ?)
+
+
+Sprites hors spritesheet :
+
+map
+Taille : 1272x942 px (PO : X=360 Y=30)
+
+feedback_anim_new_item
+Taille : 230x202 px (PO : X=-49 Y=-157 (par rapport à l'anim de récupération d'item de Phaos) j'ai fait à peu près, à tweaker si besoin)
+18 frames
+
+credits
+Taille : 1446x897 px (PO : X=236 Y=96)
+
+
+
+Spritesheet :
+
+full_heart
+3_quarter_heart
+half_heart
+quarter_heart
+empty_heart
+Tailles : 68x60 px (PO premier coeur : X=74 Y=22) (X=+82 pour le 2ème coeur ainsi de suite)
+
+- 60 px -
+
+down_arrow
+down_arrow_selected
+Tailles : 30x30 px (PO : X=1726 Y=950)
+
+left_arrow
+left_arrow_selected
+Tailles : 30x30 px (PO : X=1700 Y=924)
+
+up_arrow
+up_arrow_selected
+Tailles : 30x30 px (PO : X=1726 Y=898)
+
+right_arrow
+right_arrow_selected
+Tailles : 30x30 px (PO : X=1752 Y=924)
+
+- 90 px -
+
+no_power_slot
+Tailles : 68x68 px (PO slot happiness : X=1708 Y=988) (PO slot sadness : X=1622 Y=904) (PO slot fear : X=1708 Y=822) (PO slot anger : X=1792 Y=904)
+
+- 158 px -
+
+rings
+Tailles : 84x80 px (PO slot happiness : X=1700 Y=982) (PO slot sadness : X=1614 Y=898) (PO slot fear : X=1700 Y=816) (PO slot anger : X=1784 Y=898)
+
+- 238 px -
+
+stamina_base
+Taille : 52x12 px (PO : Y=-16 X=+6 (par rapport à l'anim swim de Phaos)) --> à modifier avec l'anim de nage de Phaos
+
+- 250 px -
+
+stamina_bar 
+Taille : 44x4 px (PO : Y=+4 X=+4 (par rapport à stamina_base)) --> à modifier avec l'anim de nage de Phaos
+
+- 254 px -
+
+new_zone_banner
+Taille : 824x162 px (PO : X=1096 Y=100) (PO text : X=1592 Y=216)
+
+- 416 px -
+
+a_interact
+Taille : 26x26 px
+
+- 442 px -
+
+exclamation_point
+Taille : 64x64 px
+4 frames
+
+- 506 px -
+
+dialbox
+Taille : 234x74 px
+4 frames
+
+- 580 px -
+
+feed_back_changes_in_inventory
+Taille : 484x74 px (PO : X=1436 Y=22) (PO text : X=1460 Y=44)
+
+- 654 px -
+
+feedback_new_item
+Taille : 328x74 px (PO : X=1592 Y=104) (PO text : X=1700 Y=124) (PO items (animaux) : ~ X=1584 Y=98 (C'est une boxe de 84x84 il faudra resize les animaux à la bonne taille pour apparaître là-dedans))
+
+- 728 px -
+
+press_a_to_start
+Taille : 366x140 px
+2 frames
+
+- 868 px -
+
+press_lt
+Taille : 264x140 px
+2 frames
+
+- 1008 px -
+
+press_rt
+Taille : 264x140 px
+2 frames
+
+- 1148 px -
+
+talk_interact
+Taille : 64x64 px
+4 frames
+
+- 1212 px -
+
+key
+Taille : 56x28 px (PO : X=80 Y=120)
+
+- 1240 px -
+
+x_key
+Taille 22x26 px (PO : X=152 Y=122)
+
+number_key
+Taille 22x26 px (PO : X=184 Y=122)
+
+- 1266 px -

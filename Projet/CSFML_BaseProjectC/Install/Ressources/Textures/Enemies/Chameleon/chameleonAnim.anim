@@ -1,0 +1,9 @@
+[path]
+../Ressources/Textures/Enemies/Chameleon/chameleon.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+chameleonIdle 0 156 88 80 3 0.2 0
+chameleonDetecting 0 236 88 80 5 0.1 0
+chameleonAttack 0 316 88 92 7 0.05 0
+[end]

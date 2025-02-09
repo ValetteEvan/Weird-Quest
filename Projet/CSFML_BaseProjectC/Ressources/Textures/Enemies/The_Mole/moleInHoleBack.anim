@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/Enemies/The_Mole/The_Mole.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+moleInHoleBack     0    702     70     62       13       0.03      0
+[end]

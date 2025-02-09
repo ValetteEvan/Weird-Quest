@@ -1,0 +1,9 @@
+[path]
+../Ressources/Textures/Enemies/Mosquito/mosquito.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+mosquito_WALK 0 0 78 96 2 0.2 0
+mosquito_ATTACK 0 190 78 92 2 0.1 0
+mosquito_CHARGE 0 96 78 94 3 0.1 0
+[end]

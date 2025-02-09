@@ -1,0 +1,36 @@
+SPRITE SHEET MAIN MENU 
+
+
+0
+
+arrière plan : 1 frame : L 1920 H 1080
+
+1080
+
+encadrement bouton normal: L 426 H 118
+
+1198
+
+encadrement bouton survol: L 458 H150
+
+1348
+
+rond survol : L 54 H 48
+
+1396
+
+icone "continue" : L 1072 H 624
+
+2020
+
+icone " new game" : L 1084 H 518
+
+2538
+
+icone "setting" : L 564 H 584
+
+3122
+
+icone "quit" : L 1072 H 514
+
+3636

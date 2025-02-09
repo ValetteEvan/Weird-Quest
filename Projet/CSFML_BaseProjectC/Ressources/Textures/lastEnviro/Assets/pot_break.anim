@@ -1,0 +1,8 @@
+[path]
+../Ressources/Textures/Enviro/Assets/assets_dungeon.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+pot_n_break		0	0	64	64	7	0.1		0
+pot_h_break		0	64	64	64	7	0.1		0
+[end]

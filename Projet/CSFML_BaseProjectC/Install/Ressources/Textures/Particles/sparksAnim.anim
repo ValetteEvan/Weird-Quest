@@ -1,0 +1,11 @@
+[path]
+../Ressources/Textures/Particles/sparks.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+sparksAttract 0 0 21 21 3 0.19 0
+sparksSolo 0 0 21 21 0 0.19 0
+sparksRepulse 0 21 21 21 3 0.19 0
+sparksStasis 0 42 21 21 3 0.19 0
+sparksDestruct 0 63 21 21 3 0.19 0
+[end]

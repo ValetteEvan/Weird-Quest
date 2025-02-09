@@ -1,0 +1,15 @@
+	 SPRITES SOLOS :
+
+- moustique idle : 78 x 96    4frames
+- moustique chargement attaque : 78 x 94   4frames
+- moustique attaque : 78 x 92  4frames 
+- moustique dégât : 66 x 84  1frame
+
+
+
+	 SPRITES SHEETS :
+
+- moustique idle : 78 x 96    4frames     96px
+- moustique chargement attaque : 78 x 94   4frames   190px
+- moustique attaque : 78 x 92  4frames   282px
+- moustique dégât : 66 x 84   1frame   366px

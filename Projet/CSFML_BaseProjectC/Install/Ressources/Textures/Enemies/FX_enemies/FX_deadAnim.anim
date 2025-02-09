@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/Enemies/FX_enemies/FX_dead.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+FX_dead 0 0 192 164 7 0.1 0
+[end]

@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/chara/antagoniste/sprite_necromancien.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+antagoniste 0 0 140 180 3 0.25 0
+[end]

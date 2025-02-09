@@ -1,0 +1,10 @@
+[path]
+../Ressources/Textures/Enemies/Billy_Goat/spritesheet_goats.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+WHITE_GOAT_IDLE 0 0 144 108 3 0.2 0
+WHITE_GOAT_CHARGE 0 108 144 108 6 0.2 0
+WHITE_GOAT_RUSH 0 216 144 104 2 0.2 0
+WHITE_GOAT_WALK 0 952 144 104 2 0.2 0
+[end]

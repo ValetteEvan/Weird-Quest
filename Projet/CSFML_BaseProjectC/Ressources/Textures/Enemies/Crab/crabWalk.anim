@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/Enemies/Crab/crab.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+crabWalk        0     170     70     58       5       0.2      0
+[end]

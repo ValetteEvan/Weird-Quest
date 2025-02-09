@@ -1,0 +1,539 @@
+[all]
+animation loadingAnim ../Ressources/Textures/loadingAnim/loading.anim
+font UGp ../Ressources/Fonts/UGp.ttf
+font Lilian ../Ressources/Fonts/Lilian.ttf
+font Dico ../Ressources/Fonts/Dico.ttf
+font Pixel ../Ressources/Fonts/Pixel.ttf
+font fEdit ../Ressources/Fonts/RootBeer.ttf
+shader light ../Ressources/Shaders/light.frag
+shader shd_overlay ../Ressources/Shaders/overlay.frag
+shader shd_multiply ../Ressources/Shaders/multiply.frag
+shader shd_flou ../Ressources/Shaders/pause_flou.frag
+single inventoryObject ../Ressources/Textures/some_object_for_inventory.png
+single collision ../Ressources/Textures/Enviro/collision_tilesheet.png
+animation dialogBoxTex ../Ressources/Textures/dialogBoxTex.anim
+music Music_Main ../Ressources/Sounds/Music/main/mainMusique.ogg
+single options ../Ressources/Textures/settings/SPRITE_SHEET_SETTINGS.png
+music Music_Menu ../Ressources/Sounds/Music/menu/menuMusique.ogg
+soundfx SFX_TournePage ../Ressources/Sounds/SFX/introPage.wav
+[end]
+[menu]
+single cinematic ../Ressources/Textures/cinematic_intro/1.png
+single cinematic1 ../Ressources/Textures/cinematic_intro/2.png
+single cinematic2 ../Ressources/Textures/cinematic_intro/3.png
+single cinematic3 ../Ressources/Textures/cinematic_intro/4.png
+single cinematic4 ../Ressources/Textures/cinematic_intro/5.png
+single cinematic5 ../Ressources/Textures/cinematic_intro/6.png
+single cinematic6 ../Ressources/Textures/cinematic_intro/7.png
+single cinematic7 ../Ressources/Textures/cinematic_intro/8.png
+animation dialBoxAnim ../Ressources/Textures/cinematic_intro/dialbox_opening.anim
+
+single opening1 ../Ressources/Textures/animLivre/1.png
+single opening2 ../Ressources/Textures/animLivre/2.png
+single opening3 ../Ressources/Textures/animLivre/3.png
+single opening4 ../Ressources/Textures/animLivre/4.png
+single opening5 ../Ressources/Textures/animLivre/5.png
+single opening6 ../Ressources/Textures/animLivre/6.png
+single opening7 ../Ressources/Textures/animLivre/7.png
+single opening8 ../Ressources/Textures/animLivre/8.png
+single opening9 ../Ressources/Textures/animLivre/9.png
+single opening10 ../Ressources/Textures/animLivre/10.png
+single opening11 ../Ressources/Textures/animLivre/11.png
+single opening12 ../Ressources/Textures/animLivre/12.png
+single opening13 ../Ressources/Textures/animLivre/13.png
+single opening14 ../Ressources/Textures/animLivre/14.png
+single opening15 ../Ressources/Textures/animLivre/15.png
+single opening16 ../Ressources/Textures/animLivre/16.png
+single opening17 ../Ressources/Textures/animLivre/17.png
+single opening18 ../Ressources/Textures/animLivre/18.png
+single opening19 ../Ressources/Textures/animLivre/19.png
+single opening20 ../Ressources/Textures/animLivre/20.png
+single opening21 ../Ressources/Textures/animLivre/21.png
+single opening22 ../Ressources/Textures/animLivre/22.png
+single opening23 ../Ressources/Textures/animLivre/23.png
+single opening24 ../Ressources/Textures/animLivre/24.png
+single opening25 ../Ressources/Textures/animLivre/25.png
+single opening26 ../Ressources/Textures/animLivre/26.png
+single opening27 ../Ressources/Textures/animLivre/27.png
+single opening28 ../Ressources/Textures/animLivre/28.png
+single opening29 ../Ressources/Textures/animLivre/29.png
+single opening30 ../Ressources/Textures/animLivre/30.png
+single opening31 ../Ressources/Textures/animLivre/31.png
+single opening32 ../Ressources/Textures/animLivre/32.png
+single opening33 ../Ressources/Textures/animLivre/33.png
+single opening34 ../Ressources/Textures/animLivre/34.png
+single openingPress ../Ressources/Textures/animLivre/press_to_start.png
+single openingFond ../Ressources/Textures/animLivre/fond.png
+single openingLogoGA ../Ressources/Textures/animLivre/LOGO_GA.png
+single openingLogoWQ ../Ressources/Textures/animLivre/LOGO_WQ.png
+single openingCopyright ../Ressources/Textures/animLivre/copyright_screen.png
+single screen_dodo ../Ressources/Textures/cinematic_intro/SCREEN_DODO.png
+single theMonsterKeeper ../Ressources/Textures/animLivre/the_monster_keeper_icone.png 
+
+single opening_1 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/1.png
+single opening_2 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/2.png
+single opening_3 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/3.png
+single opening_4 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/4.png
+single opening_5 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/5.png
+single opening_6 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/6.png
+single opening_7 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/7.png
+single opening_8 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/8.png
+single opening_9 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/9.png
+single opening_10 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/10.png
+single opening_11 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/11.png
+single opening_12 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/12.png
+single opening_13 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/13.png
+single opening_14 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/14.png
+single opening_15 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/15.png
+single opening_16 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/16.png
+single opening_17 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/17.png
+single opening_18 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/18.png
+single opening_19 ../Ressources/Textures/animLivre/FRAME_LOGO_ANIM/19.png
+
+single menuSprite ../Ressources/Textures/menu/menuSprite.png
+[end]
+[game]
+//Enviro
+[biomeAll]
+single ts_ground_sand ../Ressources/Textures/Enviro/Tileset/All/tileset_ground_sand.png
+single ts_ground_rock ../Ressources/Textures/Enviro/Tileset/All/tileset_ground_stone.png
+single ts_ground_grass ../Ressources/Textures/Enviro/Tileset/All/tileset_ground_grass.png
+single ts_ground_water ../Ressources/Textures/Enviro/Tileset/All/tileset_ground_water.png
+single ts_ground_dirt ../Ressources/Textures/Enviro/Tileset/All/tileset_ground_dirt.png
+single ts_ground_dungeon ../Ressources/Textures/Enviro/Tileset/All/tileset_ground_dungeon.png
+single ts_ground_leaf ../Ressources/Textures/Enviro/Tileset/All/tileset_leaf.png
+single ts_wall_ext ../Ressources/Textures/Enviro/Tileset/All/wall_exterior.png
+single ts_wall_int ../Ressources/Textures/Enviro/Tileset/All/wall_interior.png
+[endBiome]
+[biomeForest]
+single phaosWater ../Ressources/Textures/Player/PHAOS_SPRS22.png
+single phaosGrass ../Ressources/Textures/Player/PHAOS_SPRS32.png
+animation grassAnim ../Ressources/Textures/Enviro/Tileset/Forest/grass.anim
+single ts_ground_sand ../Ressources/Textures/Enviro/Tileset/Forest/tileset_ground_sand.png
+single ts_ground_rock ../Ressources/Textures/Enviro/Tileset/Forest/tileset_ground_stone.png
+single ts_ground_grass ../Ressources/Textures/Enviro/Tileset/Forest/tileset_ground_grass.png
+single ts_ground_water ../Ressources/Textures/Enviro/Tileset/Forest/tileset_ground_water.png
+single ts_ground_dirt ../Ressources/Textures/Enviro/Tileset/Forest/tileset_ground_dirt.png
+single ts_ground_dungeon ../Ressources/Textures/Enviro/Tileset/Forest/tileset_ground_dungeon.png
+single ts_ground_leaf ../Ressources/Textures/Enviro/Tileset/Forest/tileset_leaf.png
+single ts_wall_ext ../Ressources/Textures/Enviro/Tileset/Forest/wall_exterior.png
+single ts_wall_int ../Ressources/Textures/Enviro/Tileset/Forest/wall_interior.png
+[endBiome]
+[biomeCave]
+single phaosWater ../Ressources/Textures/Player/PHAOS_SPRS21.png
+single phaosGrass ../Ressources/Textures/Player/PHAOS_SPRS31.png
+animation grassAnim ../Ressources/Textures/Enviro/Tileset/All/grass.anim
+single ts_ground_sand ../Ressources/Textures/Enviro/Tileset/Cave/tileset_ground_sand.png
+single ts_ground_rock ../Ressources/Textures/Enviro/Tileset/Cave/tileset_ground_stone.png
+single ts_ground_grass ../Ressources/Textures/Enviro/Tileset/Cave/tileset_ground_grass.png
+single ts_ground_water ../Ressources/Textures/Enviro/Tileset/Cave/tileset_ground_water.png
+single ts_ground_dirt ../Ressources/Textures/Enviro/Tileset/Cave/tileset_ground_dirt.png
+single ts_ground_dungeon ../Ressources/Textures/Enviro/Tileset/Cave/tileset_ground_dungeon.png
+single ts_ground_leaf ../Ressources/Textures/Enviro/Tileset/Cave/tileset_leaf.png
+single ts_wall_ext ../Ressources/Textures/Enviro/Tileset/Cave/wall_exterior.png
+single ts_wall_int ../Ressources/Textures/Enviro/Tileset/Cave/wall_interior.png
+[endBiome]
+[biomeMountain]
+single phaosWater ../Ressources/Textures/Player/PHAOS_SPRS21.png
+single phaosGrass ../Ressources/Textures/Player/PHAOS_SPRS31.png
+animation grassAnim ../Ressources/Textures/Enviro/Tileset/All/grass.anim
+single ts_ground_sand ../Ressources/Textures/Enviro/Tileset/Mountain/tileset_ground_sand.png
+single ts_ground_rock ../Ressources/Textures/Enviro/Tileset/Mountain/tileset_ground_stone.png
+single ts_ground_grass ../Ressources/Textures/Enviro/Tileset/Mountain/tileset_ground_grass.png
+single ts_ground_water ../Ressources/Textures/Enviro/Tileset/Mountain/tileset_ground_water.png
+single ts_ground_dirt ../Ressources/Textures/Enviro/Tileset/Mountain/tileset_ground_dirt.png
+single ts_ground_dungeon ../Ressources/Textures/Enviro/Tileset/Mountain/tileset_ground_dungeon.png
+single ts_ground_leaf ../Ressources/Textures/Enviro/Tileset/Mountain/tileset_leaf.png
+single ts_wall_ext ../Ressources/Textures/Enviro/Tileset/Mountain/wall_exterior.png
+single ts_wall_int ../Ressources/Textures/Enviro/Tileset/Mountain/wall_interior.png
+[endBiome]
+[biomeBeach]
+single phaosWater ../Ressources/Textures/Player/PHAOS_SPRS21.png
+single phaosGrass ../Ressources/Textures/Player/PHAOS_SPRS31.png
+animation grassAnim ../Ressources/Textures/Enviro/Tileset/All/grass.anim
+single ts_ground_sand ../Ressources/Textures/Enviro/Tileset/Beach/tileset_ground_sand.png
+single ts_ground_rock ../Ressources/Textures/Enviro/Tileset/Beach/tileset_ground_stone.png
+single ts_ground_grass ../Ressources/Textures/Enviro/Tileset/Beach/tileset_ground_grass.png
+single ts_ground_water ../Ressources/Textures/Enviro/Tileset/Beach/tileset_ground_water.png
+single ts_ground_dirt ../Ressources/Textures/Enviro/Tileset/Beach/tileset_ground_dirt.png
+single ts_ground_dungeon ../Ressources/Textures/Enviro/Tileset/Beach/tileset_ground_dungeon.png
+single ts_ground_leaf ../Ressources/Textures/Enviro/Tileset/Beach/tileset_leaf.png
+single ts_wall_ext ../Ressources/Textures/Enviro/Tileset/Beach/wall_exterior.png
+single ts_wall_int ../Ressources/Textures/Enviro/Tileset/Beach/wall_interior.png
+[endBiome]
+[biomeGrassland]
+single phaosWater ../Ressources/Textures/Player/PHAOS_SPRS21.png
+single phaosGrass ../Ressources/Textures/Player/PHAOS_SPRS31.png
+animation grassAnim ../Ressources/Textures/Enviro/Tileset/All/grass.anim
+single ts_ground_sand ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_sand.png
+single ts_ground_rock ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_stone.png
+single ts_ground_grass ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_grass.png
+single ts_ground_water ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_water.png
+single ts_ground_dirt ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_dirt.png
+single ts_ground_dungeon ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_dungeon.png
+single ts_ground_leaf ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_leaf.png
+single ts_wall_ext ../Ressources/Textures/Enviro/Tileset/Grassland/wall_exterior.png
+single ts_wall_int ../Ressources/Textures/Enviro/Tileset/Grassland/wall_interior.png
+[endBiome]
+[biomeJoyDungeon]
+single phaosWater ../Ressources/Textures/Player/PHAOS_SPRS21.png
+single phaosGrass ../Ressources/Textures/Player/PHAOS_SPRS31.png
+animation grassAnim ../Ressources/Textures/Enviro/Tileset/All/grass.anim
+single ts_ground_sand ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_sand.png
+single ts_ground_rock ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_stone.png
+single ts_ground_grass ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_grass.png
+single ts_ground_water ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_water.png
+single ts_ground_dirt ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_dirt.png
+single ts_ground_leaf ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_leaf.png
+single ts_wall_int ../Ressources/Textures/Enviro/Tileset/Grassland/wall_interior.png
+single ts_ground_dungeon ../Ressources/Textures/Enviro/Dungeon/JoyDungeon/tileset_ground_dungeon.png
+single ts_wall_ext ../Ressources/Textures/Enviro/Dungeon/JoyDungeon/wall_exterior.png
+single assets_dungeon_biome ../Ressources/Textures/Enviro/Dungeon/JoyDungeon/assets_dungeon_biome.png
+animation dungeonPlcHAnim ../Ressources/Textures/Enviro/Dungeon/JoyDungeon/assets_dungeon_biome.anim
+[endBiome]
+[biomeSadnessDungeon]
+single phaosWater ../Ressources/Textures/Player/PHAOS_SPRS21.png
+single phaosGrass ../Ressources/Textures/Player/PHAOS_SPRS31.png
+single ts_ground_sand ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_sand.png
+single ts_ground_rock ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_stone.png
+single ts_ground_grass ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_grass.png
+single ts_ground_water ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_water.png
+single ts_ground_dirt ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_dirt.png
+single ts_ground_leaf ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_leaf.png
+single ts_wall_int ../Ressources/Textures/Enviro/Tileset/Grassland/wall_interior.png
+single ts_ground_dungeon ../Ressources/Textures/Enviro/Dungeon/SadnessDungeon/tileset_ground_dungeon.png
+single ts_wall_ext ../Ressources/Textures/Enviro/Dungeon/SadnessDungeon/wall_exterior.png
+single assets_dungeon_biome ../Ressources/Textures/Enviro/Dungeon/SadnessDungeon/assets_dungeon_biome.png
+animation dungeonPlcHAnim ../Ressources/Textures/Enviro/Dungeon/SadnessDungeon/assets_dungeon_biome.anim
+[endBiome]
+[biomeFearDungeon]
+single phaosWater ../Ressources/Textures/Player/PHAOS_SPRS21.png
+single phaosGrass ../Ressources/Textures/Player/PHAOS_SPRS31.png
+single ts_ground_sand ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_sand.png
+single ts_ground_rock ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_stone.png
+single ts_ground_grass ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_grass.png
+single ts_ground_water ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_water.png
+single ts_ground_dirt ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_dirt.png
+single ts_ground_leaf ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_leaf.png
+single ts_wall_int ../Ressources/Textures/Enviro/Tileset/Grassland/wall_interior.png
+single ts_ground_dungeon ../Ressources/Textures/Enviro/Dungeon/FearDungeon/tileset_ground_dungeon.png
+single ts_wall_ext ../Ressources/Textures/Enviro/Dungeon/FearDungeon/wall_exterior.png
+single assets_dungeon_biome ../Ressources/Textures/Enviro/Dungeon/FearDungeon/assets_dungeon_biome.png
+animation dungeonPlcHAnim ../Ressources/Textures/Enviro/Dungeon/FearDungeon/assets_dungeon_biome.anim
+[endBiome]
+[biomeAngryDungeon]
+single phaosWater ../Ressources/Textures/Player/PHAOS_SPRS21.png
+single phaosGrass ../Ressources/Textures/Player/PHAOS_SPRS31.png
+single ts_ground_sand ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_sand.png
+single ts_ground_rock ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_stone.png
+single ts_ground_grass ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_grass.png
+single ts_ground_water ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_water.png
+single ts_ground_dirt ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_ground_dirt.png
+single ts_ground_leaf ../Ressources/Textures/Enviro/Tileset/Grassland/tileset_leaf.png
+single ts_wall_int ../Ressources/Textures/Enviro/Tileset/Grassland/wall_interior.png
+single ts_ground_dungeon ../Ressources/Textures/Enviro/Dungeon/AngryDungeon/tileset_ground_dungeon.png
+single ts_wall_ext ../Ressources/Textures/Enviro/Dungeon/AngryDungeon/wall_exterior.png
+single assets_dungeon_biome ../Ressources/Textures/Enviro/Dungeon/AngryDungeon/assets_dungeon_biome.png
+animation dungeonPlcHAnim ../Ressources/Textures/Enviro/Dungeon/AngryDungeon/assets_dungeon_biome.anim
+[endBiome]
+[biomeLighthouse]
+// Doesn't work for some reason
+[endBiome]
+
+single assets_dungeon ../Ressources/Textures/Enviro/Assets/assets_dungeon.png
+single assets_forest ../Ressources/Textures/Enviro/Assets/assets_forest.png
+single assets_beach ../Ressources/Textures/Enviro/Assets/assets_beach.png
+single assets_moutain ../Ressources/Textures/Enviro/Assets/assets_moutain.png
+single assets_general ../Ressources/Textures/Enviro/Assets/assets_general.png
+single assets_dj_joy ../Ressources/Textures/Enviro/Dungeon/JoyDungeon/assets_joy.png
+single assets_dj_sadness ../Ressources/Textures/Enviro/Dungeon/SadnessDungeon/assets_sadness.png
+single assets_dj_fear ../Ressources/Textures/Enviro/Dungeon/FearDungeon/assets_fear.png
+single assets_dj_angry ../Ressources/Textures/Enviro/Dungeon/AngryDungeon/assets_angry.png
+
+single assets_splash ../Ressources/Textures/Enviro/Assets/assets_splash_water.png
+single assets_waterfall ../Ressources/Textures/Enviro/Assets/assets_waterfall.png
+
+animation forestTreeIDLE ../Ressources/Textures/Enviro/Assets/assets_forest.anim
+animation beachPalmIDLE ../Ressources/Textures/Enviro/Assets/assets_beach.anim
+animation generalFountainIDLE ../Ressources/Textures/Enviro/Assets/assets_general.anim
+animation dungeonAnim ../Ressources/Textures/Enviro/Assets/assets_dungeon.anim
+animation entrancePlateJoyAnim ../Ressources/Textures/Enviro/Dungeon/JoyDungeon/assets_entrance_plate.anim
+animation entrancePlateSadnessAnim ../Ressources/Textures/Enviro/Dungeon/SadnessDungeon/assets_entrance_plate.anim
+animation entrancePlateFearAnim ../Ressources/Textures/Enviro/Dungeon/FearDungeon/assets_entrance_plate.anim
+animation entrancePlateAngryAnim ../Ressources/Textures/Enviro/Dungeon/AngryDungeon/assets_entrance_plate.anim
+
+animation splashWater ../Ressources/Textures/Enviro/Assets/assets_splash.anim
+animation animHeartDrop ../Ressources/Textures/item_Drop/dropHeart.anim
+
+single HUD_in_game_indication ../Ressources/Textures/HUD/sprite_sheet_ui_in-game.png
+
+single lighthouse_bg_phaos ../Ressources/Textures/lighthouse/bg_phaos.png
+single lighthouse_bg_hall ../Ressources/Textures/lighthouse/bg_hall.png
+single lighthouse_fg_hall ../Ressources/Textures/lighthouse/fg_hall.png
+single lighthouse_bed ../Ressources/Textures/lighthouse/bed.png
+single lighthouse_trapdoor ../Ressources/Textures/lighthouse/trapdoor.png
+
+single lighthouse_chest ../Ressources/Textures/lighthouse/chest.png
+single lighthouse_seat ../Ressources/Textures/lighthouse/seat.png
+single lighthouse_table ../Ressources/Textures/lighthouse/table.png
+single lighthouse_carpet ../Ressources/Textures/lighthouse/carpet.png
+single lighthouse_candelabra ../Ressources/Textures/lighthouse/candelabra.png
+single lighthouse_shader_hall ../Ressources/Textures/lighthouse/shader_hall.png
+
+single lighthouse_bg_mentor	../Ressources/Textures/lighthouse/bg_mentor.png
+single lighthouse_fg_mentor	../Ressources/Textures/lighthouse/fg_mentor.png
+single lighthouse_bookcase ../Ressources/Textures/lighthouse/bookcase.png
+single lighthouse_flame	../Ressources/Textures/lighthouse/flame.png
+single lighthouse_mentor_shd_light ../Ressources/Textures/lighthouse/shader_mentor.png
+
+single lighthouse_out_light ../Ressources/Textures/lighthouse_out/overlay_light.png
+single lighthouse_out_shade ../Ressources/Textures/lighthouse_out/overlay_shade.png
+single lighthouse_out_lighthouse ../Ressources/Textures/lighthouse_out/lighthouse.png
+single lighthouse_out_decor ../Ressources/Textures/lighthouse_out/decor.png
+single lighthouse_out_flower ../Ressources/Textures/lighthouse_out/flower.png
+single lighthouse_out_waterfall ../Ressources/Textures/lighthouse_out/waterfall.png
+single lighthouse_out_island ../Ressources/Textures/lighthouse_out/island.png
+single lighthouse_out_sky ../Ressources/Textures/lighthouse_out/sky.png
+
+single lighthouse_out_shd_light ../Ressources/Textures/lighthouse_out/shaders/daylight.png
+single lighthouse_out_shd_rays ../Ressources/Textures/lighthouse_out/shaders/godrays.png
+single lighthouse_out_shd_vignette ../Ressources/Textures/lighthouse_out/shaders/vignette.png
+
+single lighthouse_out_cloud_f1 ../Ressources/Textures/lighthouse_out/clouds/f1.png
+single lighthouse_out_cloud_f2 ../Ressources/Textures/lighthouse_out/clouds/f2.png
+single lighthouse_out_cloud_f3 ../Ressources/Textures/lighthouse_out/clouds/f3.png
+single lighthouse_out_cloud_f4 ../Ressources/Textures/lighthouse_out/clouds/f4.png
+single lighthouse_out_cloud_f5 ../Ressources/Textures/lighthouse_out/clouds/f5.png
+single lighthouse_out_cloud_f6 ../Ressources/Textures/lighthouse_out/clouds/f6.png
+single lighthouse_out_cloud_b1 ../Ressources/Textures/lighthouse_out/clouds/b1.png
+single lighthouse_out_cloud_b2 ../Ressources/Textures/lighthouse_out/clouds/b2.png
+
+animation pot_break ../Ressources/Textures/Enviro/Assets/pot_break.anim
+animation dialogBoxTexAnim ../Ressources/Textures/dialogBoxTex.anim
+
+shader water_prototype ../Ressources/Shaders/water_prototype.frag
+single noisemap ../Ressources/Textures/perlin.png
+single pause_BO ../Ressources/Textures/interface/EXPORT/sprite_sheet_interface.png
+
+animation ringAnim ../Ressources/Textures/Ring/ringAnim.anim
+animation sparksAnim ../Ressources/Textures/Particles/sparksAnim.anim
+animation arnoldAnim ../Ressources/Textures/chara/arnold/arnold.anim
+animation golemJoie_anim ../Ressources/Textures/Boss_Joie/golemJoie_animate.anim
+animation spider ../Ressources/Textures/Enemies/Spider/SPIDER.anim
+animation spider_bad ../Ressources/Textures/Enemies/Spider/SPIDER_BAD.anim
+animation whiteGOAT ../Ressources/Textures/Enemies/Billy_Goat/WHITE_GOAT.anim
+animation blackGOAT ../Ressources/Textures/Enemies/Billy_Goat/BLACK_GOAT.anim
+animation bat ../Ressources/Textures/Enemies/Bat/BAT.anim
+animation MOSQUITO ../Ressources/Textures/Enemies/Mosquito/MOSQUITO.anim
+animation golem_Anim ../Ressources/Textures/Boss_Tristesse/bossTristesse.anim 
+animation phaosAnim ../Ressources/Textures/Player/PHAOS.anim
+single temple_assets ../Ressources/Textures/temple/temple_assets.png
+animation goose_anim ../Ressources/Textures/Enemies/Goose/AnimGoose.anim
+single shadows ../Ressources/Textures/Enemies/Shadows/Shadows.png
+
+animation antagonisteAnim ../Ressources/Textures/chara/antagoniste/antagoniste.anim
+animation mentorAnim ../Ressources/Textures/chara/mentor/mentor.anim
+animation shamaneAnim ../Ressources/Textures/chara/shamane/shamane.anim
+animation arnoldAnim ../Ressources/Textures/chara/arnold/arnold.anim
+
+animation feedbackExclamAnim ../Ressources/Textures/HUD/feedback_exclam.anim
+animation feedbackExclamAnimPlayer ../Ressources/Textures/HUD/feedback_player_exclam.anim
+
+single lighthouse_bg_phaos ../Ressources/Textures/lighthouse/bg_phaos.png
+single lighthouse_bg_hall ../Ressources/Textures/lighthouse/bg_hall.png
+single lighthouse_fg_hall ../Ressources/Textures/lighthouse/fg_hall.png
+single lighthouse_bed ../Ressources/Textures/lighthouse/bed.png
+single lighthouse_trapdoor ../Ressources/Textures/lighthouse/trapdoor.png
+single lighthouse_chest ../Ressources/Textures/lighthouse/chest.png
+single lighthouse_seat ../Ressources/Textures/lighthouse/seat.png
+single lighthouse_table ../Ressources/Textures/lighthouse/table.png
+single lighthouse_carpet ../Ressources/Textures/lighthouse/carpet.png
+single lighthouse_candelabra ../Ressources/Textures/lighthouse/candelabra.png
+single lighthouse_shader_hall ../Ressources/Textures/lighthouse/shader_hall.png
+
+single HUD ../Ressources/Textures/HUD/UI_Spritesheet.png
+animation feedback_item ../Ressources/Textures/HUD/Hors_spritesheet/feedback_anim_new_item.png
+animation total_map ../Ressources/Textures/HUD/Hors_spritesheet/map.png
+
+animation snakeAnim ../Ressources/Textures/Enemies/Snake/snakeAnim.anim
+animation bigGhostJoyAnim ../Ressources/Textures/Enemies/BigGhostJoy/bigGhostJoyAnim.anim
+animation chameleonAnim ../Ressources/Textures/Enemies/Chameleon/chameleonAnim.anim
+animation scolopendreAnim ../Ressources/Textures/Enemies/Scolopendre/scolopendreAnim.anim
+
+single lighthouse_bg_phaos ../Ressources/Textures/lighthouse/bg_phaos.png
+single lighthouse_bg_hall ../Ressources/Textures/lighthouse/bg_hall.png
+single lighthouse_fg_hall ../Ressources/Textures/lighthouse/fg_hall.png
+single lighthouse_bed ../Ressources/Textures/lighthouse/bed.png
+single lighthouse_trapdoor ../Ressources/Textures/lighthouse/trapdoor.png
+single lighthouse_chest ../Ressources/Textures/lighthouse/chest.png
+single lighthouse_seat ../Ressources/Textures/lighthouse/seat.png
+single lighthouse_table ../Ressources/Textures/lighthouse/table.png
+single lighthouse_carpet ../Ressources/Textures/lighthouse/carpet.png
+single lighthouse_candelabra ../Ressources/Textures/lighthouse/candelabra.png
+single lighthouse_shader_hall ../Ressources/Textures/lighthouse/shader_hall.png
+
+single antechamber_bg ../Ressources/Textures/antechamber/bg2.png
+single antechamber_door ../Ressources/Textures/antechamber/door.png
+single antechamber_stairs ../Ressources/Textures/antechamber/stairs.png
+single antechamber_objets ../Ressources/Textures/antechamber/objets.png
+animation antechamber_torchLighting ../Ressources/Textures/antechamber/torch.anim
+single antechamber_checkmark ../Ressources/Textures/antechamber/check.png
+
+animation bigSadCry ../Ressources/Textures/Enemies/Big_Ghost_Sadness/bigSadCry.anim
+animation bigSadDead ../Ressources/Textures/Enemies/Big_Ghost_Sadness/bigSadDead.anim
+animation bigSadIdle ../Ressources/Textures/Enemies/Big_Ghost_Sadness/bigSadIdle.anim
+animation bigSadRepulse1 ../Ressources/Textures/Enemies/Big_Ghost_Sadness/bigSadRepulse1.anim
+animation bigSadRepulse2 ../Ressources/Textures/Enemies/Big_Ghost_Sadness/bigSadRepulse2.anim
+animation bigSadTears ../Ressources/Textures/Enemies/Big_Ghost_Sadness/tears.anim
+
+single expandingTile ../Ressources/Textures/expandingTile.png
+single assets_donjon_global ../Ressources/Textures/Assets_Donjon_Global.png
+animation assets_donjon_global_anim ../Ressources/Textures/assets_donjon_global.anim
+animation moleAnim ../Ressources/Textures/Enemies/The_Mole/moleAnim.anim
+single moleBullets ../Ressources/Textures/Enemies/The_Mole/The_Mole.png
+animation littleJoyAnim ../Ressources/Textures/Enemies/Little_Ghost_Joy/littleJoyAnim.anim
+animation crabAnim ../Ressources/Textures/Enemies/Crab/crabAnim.anim
+animation bigSadAnim ../Ressources/Textures/Enemies/Big_Ghost_Sadness/bigSadAnim.anim
+animation smallSadAnim ../Ressources/Textures/Enemies/SmallSad/smallSad.anim
+animation seagullAnim ../Ressources/Textures/Enemies/Seagull/seagullAnim.anim
+animation FX_dead ../Ressources/Textures/Enemies/FX_enemies/FX_deadAnim.anim
+animation FX_stars ../Ressources/Textures/Enemies/FX_enemies/FX_starsAnim.anim
+
+animation lighthouse_flower_anim ../Ressources/Textures/lighthouse_out/flower.anim
+
+shader shd_biome_beach ../Ressources/Shaders/biome_beach.frag
+single shd_biome_beach_solid ../Ressources/Textures/overlay/beach_solid.png
+single shd_biome_beach_godrays ../Ressources/Textures/overlay/beach_godrays.png
+
+shader shd_biome_mountain ../Ressources/Shaders/biome_mountain.frag
+single shd_biome_mountain_dust ../Ressources/Textures/overlay/mountain_dust.png
+single shd_biome_mountain_godrays ../Ressources/Textures/overlay/mountain_godrays.png
+single shd_biome_mountain_clouds ../Ressources/Textures/overlay/mountain_clouds.png
+
+shader shd_biome_cave ../Ressources/Shaders/biome_cave.frag
+single shd_biome_cave_vignette ../Ressources/Textures/overlay/cave_vignette.png
+
+shader shd_biome_dungeon ../Ressources/Shaders/biome_dungeon.frag
+single shd_biome_dungeon_vignette ../Ressources/Textures/overlay/dungeon_vignette.png
+
+shader spriteRecolor ../Ressources/Shaders/spriteRecolor.frag
+shader spriteRecolorAlpha ../Ressources/Shaders/spriteRecolorAlpha.frag
+
+animation fishing_SpriteSheetAnim ../Ressources/Textures/Fishing/Fishing.anim
+single fishing_SpriteSheet ../Ressources/Textures/Fishing/spritesheet.png
+single fishing_bg ../Ressources/Textures/Fishing/bg.png
+single Tuto ../Ressources/Textures/Fishing/tuto_window.png
+animation fishing_WavAnim ../Ressources/Textures/Fishing/wave.anim
+
+shader shd_fishing ../Ressources/Shaders/FishingGameShader.frag
+single shd_fishing_light ../Ressources/Textures/Fishing/overlay/light.png
+single shd_fishing_shade ../Ressources/Textures/Fishing/overlay/shade.png
+single shd_fishing_godrays ../Ressources/Textures/Fishing/overlay/godrays.png
+single shd_fishing_noise ../Ressources/Textures/Fishing/overlay/noisemap.png
+
+single leaf_Particles1 ../Ressources/Textures/Particles/FEUILLE1.png
+single leaf_Particles2 ../Ressources/Textures/Particles/FEUILLE2.png
+single leaf_Particles3 ../Ressources/Textures/Particles/FEUILLE3.png
+single leaf_Particles4 ../Ressources/Textures/Particles/FEUILLE4.png
+single leaf_Particles5 ../Ressources/Textures/Particles/FEUILLE5.png
+single firefly_Particles1 ../Ressources/Textures/Particles/LUCIOLE1.png
+single firefly_Particles2 ../Ressources/Textures/Particles/LUCIOLE2.png
+single grass_Particles1 ../Ressources/Textures/Particles/particule1.png
+single grass_Particles2 ../Ressources/Textures/Particles/particule2.png
+single grass_Particles3 ../Ressources/Textures/Particles/particule3.png
+single grass_Particles4 ../Ressources/Textures/Particles/particule4.png
+single grass_Particles5 ../Ressources/Textures/Particles/particule5.png
+single grass_Particles6 ../Ressources/Textures/Particles/particule6.png
+single feather_Particles ../Ressources/Textures/Particles/feather.png
+single Dust_Player ../Ressources/Textures/Particles/FX_POUSSIERE_18x12.png
+single bubble_Particle1 ../Ressources/Textures/Particles/bulle1.png
+single bubble_Particle2 ../Ressources/Textures/Particles/bulle2.png
+single bubble_Particle3 ../Ressources/Textures/Particles/bulle3.png
+single water_Particle1 ../Ressources/Textures/Particles/EAU1.png
+single water_Particle2 ../Ressources/Textures/Particles/EAU2.png
+single water_Particle3 ../Ressources/Textures/Particles/EAU3.png
+single water_Particle4 ../Ressources/Textures/Particles/EAU4.png
+
+animation mob_stun ../Ressources/Textures/Enviro/mob_stun.anim
+
+music Music_Forest ../Ressources/Sounds/Music/Foret/forest.ogg
+music Music_Montagne ../Ressources/Sounds/Music/Montagne/montagne.ogg
+music Music_Fishing_BulleSousLeau ../Ressources/Sounds/Music/peche/bulleSousLeau.wav
+music Music_Fishing_CrickCaneAPeche ../Ressources/Sounds/Music/peche/crickCaneAPeche.wav
+music Music_Peche ../Ressources/Sounds/Music/peche/FishingMusic.wav
+
+music Music_Phare ../Ressources/Sounds/Music/Phare/phare.ogg
+music Music_River ../Ressources/Sounds/Music/Phare/river.ogg
+music Music_BossJoie ../Ressources/Sounds/Music/TempleJoie/boss/boss.ogg
+music Music_AmbianceJoie ../Ressources/Sounds/Music/TempleJoie/ambiance.ogg
+music Music_Joie ../Ressources/Sounds/Music/TempleJoie/joySong.ogg
+
+soundfx SFX_Jar_Break ../Ressources/Sounds/SFX/pot.ogg
+soundfx SFX_Grass_Cut ../Ressources/Sounds/SFX/cutGrass.ogg
+soundfx SFX_Player_AttackMagic ../Ressources/Sounds/SFX/Player/attack/magic/attack.wav
+soundfx SFX_Player_Attack ../Ressources/Sounds/SFX/Player/attack/attque.wav
+soundfx SFX_Player_Capture ../Ressources/Sounds/SFX/Player/capture/capture.wav
+soundfx SFX_Player_HitABox ../Ressources/Sounds/SFX/Player/collisionCaisse/caisse.wav
+soundfx SFX_Player_Dash ../Ressources/Sounds/SFX/Player/dash/dash.wav
+soundfx SFX_Player_Swim ../Ressources/Sounds/SFX/Player/nage/nage.wav
+soundfx SFX_Player_BoxPushed ../Ressources/Sounds/SFX/Player/pousserCaisse/pousse.wav
+soundfx SFX_Player_Run ../Ressources/Sounds/SFX/Player/run/run.wav
+soundfx SFX_Player_Walk ../Ressources/Sounds/SFX/Player/walk/herbe.wav
+soundfx SFX_Fishing_Win ../Ressources/Sounds/SFX/peche/win.wav
+soundfx SFX_Fishing_WaterSplash0 ../Ressources/Sounds/SFX/peche/Water/Dive0.wav
+soundfx SFX_Fishing_WaterSplash1 ../Ressources/Sounds/SFX/peche/Water/Dive1.wav
+soundfx SFX_Fishing_WaterSplash2 ../Ressources/Sounds/SFX/peche/Water/Dive2.wav
+soundfx SFX_Fishing_WaterSplash3 ../Ressources/Sounds/SFX/peche/Water/Dive3.wav
+soundfx SFX_Fishing_WaterSplash4 ../Ressources/Sounds/SFX/peche/Water/Dive4.wav
+soundfx SFX_Fishing_WaterSplash5 ../Ressources/Sounds/SFX/peche/Water/Dive5.wav
+soundfx SFX_Fishing_WaterSplash6 ../Ressources/Sounds/SFX/peche/Water/Dive6.wav
+soundfx SFX_Fishing_WaterSplash7 ../Ressources/Sounds/SFX/peche/Water/Dive7.wav
+soundfx SFX_Fishing_WaterSplash8 ../Ressources/Sounds/SFX/peche/Water/Dive8.wav
+soundfx SFX_Fishing_WaterSplash9 ../Ressources/Sounds/SFX/peche/Water/Dive9.wav
+soundfx SFX_Fishing_MagicExplosion ../Ressources/Sounds/SFX/peche/MagicExplosion.wav
+soundfx SFX_Capuche_Cochon ../Ressources/Sounds/SFX/Capuche/capucheCochon.wav
+soundfx SFX_Yoyo_Walking ../Ressources/Sounds/SFX/Enemie/arraigner/walking.wav
+soundfx SFX_Yoyo_Running ../Ressources/Sounds/SFX/Enemie/arraigner/running.wav
+soundfx SFX_Mosquito_Idle ../Ressources/Sounds/SFX/Enemie/moustique/attaque.wav
+soundfx SFX_Mosquito_Attack ../Ressources/Sounds/SFX/Enemie/moustique/meurs.wav
+soundfx SFX_Bouc_Running ../Ressources/Sounds/SFX/Enemie/bouc/charge.wav
+soundfx SFX_Bat_Fly ../Ressources/Sounds/SFX/Enemie/bat/fly.wav
+soundfx SFX_Bat_Sleep ../Ressources/Sounds/SFX/Enemie/bat/sleep.wav
+soundfx SFX_Goose_Walk ../Ressources/Sounds/SFX/Enemie/oie/oiewalk.wav
+soundfx SFX_Snake_Damage ../Ressources/Sounds/SFX/Enemie/serpent/die.wav
+soundfx SFX_Snake_Attack ../Ressources/Sounds/SFX/Enemie/serpent/attack.wav
+soundfx SFX_Mole_Shoot ../Ressources/Sounds/SFX/Enemie/taupe/crache.wav
+soundfx SFX_Mole_GetOut ../Ressources/Sounds/SFX/Enemie/taupe/sorti.wav
+soundfx SFX_Mole_GetIn ../Ressources/Sounds/SFX/Enemie/taupe/entrer.wav
+soundfx SFX_LittleGhost_Detect ../Ressources/Sounds/SFX/Enemie/PetitFantome/detection.wav
+soundfx SFX_LittleGhost_Die ../Ressources/Sounds/SFX/Enemie/PetitFantome/byebye.wav
+soundfx SFX_BigGhost_Detect ../Ressources/Sounds/SFX/Enemie/GrandFantome/detection.wav
+soundfx SFX_BigGhost_Die ../Ressources/Sounds/SFX/Enemie/GrandFantome/die.wav
+soundfx SFX_Pouf ../Ressources/Sounds/SFX/Enemie/PoufDead/pouf.wav
+soundfx SFX_Arnold_1 ../Ressources/Sounds/SFX/NPC/arnold/ahh.wav
+soundfx SFX_Arnold_2 ../Ressources/Sounds/SFX/NPC/arnold/hey.wav
+soundfx SFX_Arnold_3 ../Ressources/Sounds/SFX/NPC/arnold/mhhmhh.wav
+soundfx SFX_Arnold_4 ../Ressources/Sounds/SFX/NPC/arnold/ahdown.wav
+soundfx SFX_Mentor_1 ../Ressources/Sounds/SFX/NPC/mentor/ah.wav
+soundfx SFX_Mentor_2 ../Ressources/Sounds/SFX/NPC/mentor/eh.wav
+soundfx SFX_Mentor_3 ../Ressources/Sounds/SFX/NPC/mentor/ehdown.wav
+soundfx SFX_Mentor_4 ../Ressources/Sounds/SFX/NPC/mentor/oh.wav
+soundfx SFX_Chamane_1 ../Ressources/Sounds/SFX/NPC/chamane/ah.wav
+soundfx SFX_Chamane_2 ../Ressources/Sounds/SFX/NPC/chamane/hey.wav
+soundfx SFX_Chamane_3 ../Ressources/Sounds/SFX/NPC/chamane/ohohoh.wav
+soundfx SFX_Necro_1 ../Ressources/Sounds/SFX/NPC/necro/rire.wav
+soundfx UI_NextPage ../Ressources/Sounds/SFX/UI/pageQuiTourne/page.wav
+soundfx UI_ChangeSelection ../Ressources/Sounds/SFX/UI/selection/change.wav
+soundfx SFX_LightHouse_Trap ../Ressources/Sounds/SFX/lighthouse/trap.wav
+soundfx SFX_LightHouse_Ladder ../Ressources/Sounds/SFX/lighthouse/ladder.wav
+soundfx SFX_LightHouse_Torch ../Ressources/Sounds/SFX/lighthouse/torch.wav
+soundfx SFX_LightHouse_Waterfall ../Ressources/Sounds/SFX/lighthouse/waterfall.wav
+soundfx SFX_Explosion_Boss ../Ressources/Sounds/SFX/Enemie/boss_joie/explosionBJ.wav
+soundfx SFX_Slash_Boss ../Ressources/Sounds/SFX/Enemie/boss_joie/slashBJ.wav
+soundfx SFX_Death_Boss ../Ressources/Sounds/SFX/Enemie/boss_joie/deathBJ.wav
+soundfx SFX_Spark_Boss ../Ressources/Sounds/SFX/Enemie/boss_joie/sparkBJ.wav
+soundfx SFX_Swoosh_Boss ../Ressources/Sounds/SFX/Enemie/boss_joie/swooshBJ.wav
+soundfx SFX_Halo_Boss ../Ressources/Sounds/SFX/Enemie/boss_joie/haloBJ.wav
+soundfx SFX_pick_item ../Ressources/Sounds/SFX/pickItem.ogg
+soundfx SFX_new_entry ../Ressources/Sounds/SFX/newEntry.ogg
+[end]

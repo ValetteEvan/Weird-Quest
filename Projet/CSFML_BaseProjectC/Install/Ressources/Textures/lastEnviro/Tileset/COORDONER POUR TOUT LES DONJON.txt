@@ -1,0 +1,29 @@
+les COORDONER* se sson prise aux 0x ; 0y 
+de la taille du donjon en haut a droite
+
+**DONJON 2 est pour aggrandire la taille du donjon
+
+DONJON et **DONJON 2:
+
+	TAILLE: 1802x  ;  1534 y
+
+
+CONTOURE PORTE: 
+
+	TAILLE: 404 x  ;  268 y
+
+	COORDONER*: 668 x  ;  1262 y
+
+PORTE: 
+
+	TAILLE: 228 x  ;  186 y
+
+	COORDONER*: 774 x  ;  1344 y
+
+ENTREE: 
+
+	TAILLE: 228 x  ;  186 y
+
+	COORDONER*: 774 x  ;  1338 y
+
+les coordooner sont valable pour tout les donjon.

@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/Enviro/Assets/assets_splash_water.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+splashWaterAnim		0	0	564	184	4	0.3		0
+[end]

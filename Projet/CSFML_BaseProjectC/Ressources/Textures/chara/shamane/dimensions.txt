@@ -1,0 +1,11 @@
+-----shaman idle-----
+       0
+164x164 5 frames
+
+-----shaman talk-----
+       164
+164x164 5 frames
+
+-----shaman magic-----
+       328
+164x170 7 frames

@@ -1,0 +1,7 @@
+coordonnées élements de l'anim logo GA:
+
+LOGO GA blanc simple : X 669 Y169
+
+LOGO WEIRD QUEST : X 411 Y158
+
+press too start : X 595 Y 868

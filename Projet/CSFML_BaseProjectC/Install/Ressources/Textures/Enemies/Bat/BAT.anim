@@ -1,0 +1,10 @@
+[path]
+../Ressources/Textures/Enemies/Bat/bat.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+bat_IDLE 0 80 98 54 3 0.2 0
+bat_ATTACK 0 266 94 92 3 0.2 0
+bat_FALL 0 186 98 80 5 0.2 0
+bat_SLEEP 0 0 50 80 3 0.2 0
+[end]

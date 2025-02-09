@@ -1,0 +1,10 @@
+-----Spritesheet-----
+        1692x269
+        4 frames
+
+-----Coordonnées DB Animatic-----
+        x : 114
+        y : 785
+
+Couleur Texte: #0d2e2f
+Police: de votre choix, John en veut une en full capital et aimerait que le texte soit assez gros

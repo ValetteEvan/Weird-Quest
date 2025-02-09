@@ -1,0 +1,9 @@
+[path]
+../Ressources/Textures/Enemies/Snake/snake.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+snakeIdle 0 0 90 76 7 0.2 0
+snakeAttack 0 160 106 90 7 0.13 0
+snakeWalk 0 76 92 84 9 0.105 0
+[end]

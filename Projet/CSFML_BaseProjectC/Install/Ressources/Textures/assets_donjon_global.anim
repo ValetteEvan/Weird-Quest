@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/Assets_Donjon_Global.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+donjonGlobal 0 320 192 192 2 0.5 0
+[end]

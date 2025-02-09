@@ -1,0 +1,73 @@
+coordonnées main menu
+
+BOUTONS:
+
+police: UGp.ttf
+taille: 36 pt
+
+
+état normal:
+
+encadrement bonton "continue": X 156 Y 422
+
+font continue : X230 Y 450
+
+
+encadrement bouton "new game" : X 156 Y 576
+
+font new game : X230 Y602
+
+encafrement bouton " setting" : X 156 Y 732
+
+font setting: X 230 Y 758
+
+encadrement bouton "quit" : X 230 Y 920
+
+
+état survol:
+
+encadrement bouton " continue": X 262 Y 420
+
+font continue: X 358 Y 450
+
+encadrement bouton " new game" : X 262 Y 572
+
+font new game : X 358 Y 602
+
+encadrement bouton " settings" : X 262 Y 728
+
+font settings: X 358 Y 758
+
+
+Points survole: 
+
+"continue" : X 186 Y 462
+
+ "new game" : X 186 Y 614
+
+" settings": X 186 Y 770
+
+" quit" : X 186 Y 930
+
+
+
+
+ICONES DU MENU : 
+
+Icone "continue" : X 730 Y 260
+
+Icone "new game" : X 724 Y 366
+
+Icone " setting" : X 1000 Y 304
+
+Icone " quit" : X 730 Y 370
+
+
+
+
+
+
+
+
+
+

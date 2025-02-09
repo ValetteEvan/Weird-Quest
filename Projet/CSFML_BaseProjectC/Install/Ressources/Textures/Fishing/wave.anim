@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/Fishing/waves.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+fish_Waves 0 0 1920 146 4 0.3 0
+[end]

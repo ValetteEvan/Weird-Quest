@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/Enviro/Dungeon/SadnessDungeon/assets_sadness.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+dungeon_entrance_plate_sadness 0 2174 128 128 4 0.2 0
+[end]

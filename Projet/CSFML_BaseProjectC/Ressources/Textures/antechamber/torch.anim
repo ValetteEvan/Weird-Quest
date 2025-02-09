@@ -1,0 +1,9 @@
+[path]
+../Ressources/Textures/antechamber/spritesheet.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+lightOnLeft 0 354 90 152 12 0.2 0
+LightOnRightTEST 0 202 90 152 12 0.2 0
+DoorOppacity  0 0 226 202 4 0.2 0
+[end]

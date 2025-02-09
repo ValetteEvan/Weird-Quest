@@ -1,0 +1,8 @@
+[path]
+../Ressources/Textures/HUD/UI_Spritesheet.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+feedback_exclam 0 442 64 64 3 0.25 0
+feedback_speaking 0 1148 64 64 3 0.25 0
+[end]

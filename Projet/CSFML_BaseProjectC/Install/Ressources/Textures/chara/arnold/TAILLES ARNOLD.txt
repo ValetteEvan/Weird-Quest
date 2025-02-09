@@ -1,0 +1,11 @@
+ARNOLD TAILLES 
+
+ARNOLD IDLE
+   Taille x1 : 56X63
+   Taille x2 : 112x126
+   Frames : 5
+
+ARNOLD DIALOGUE 
+   Taille x1 : 56X63
+   Taille x2 : 112x126
+   Frames : 5

@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/Enemies/Big_Ghost_Sadness/Sadness.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+bigSadCry        0     558     158     148       1       0.2      0
+[end]

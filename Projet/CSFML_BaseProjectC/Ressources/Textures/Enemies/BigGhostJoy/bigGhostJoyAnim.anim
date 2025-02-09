@@ -1,0 +1,12 @@
+[path]
+../Ressources/Textures/Enemies/BigGhostJoy/bigGhostJoy.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+bigGhostJoyIdle 0 0 150 234 2 0.2 0
+bigGhostJoyAttracting 0 974 186 188 6 0.1 0
+bigGhostJoyChase 0 462 156 210 3 0.2 0
+bigGhostJoyDead 0 1752 140 242 10 0.1 0
+bigGhostJoyDetecting 0 234 164 228 2 0.2 0
+bigGhostJoyStunned 0 1366 166 190 1 0.5 0
+[end]

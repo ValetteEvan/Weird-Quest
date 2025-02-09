@@ -1,0 +1,581 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ENGINE">
+      <UniqueIdentifier>{cffb0865-2abe-4b61-861c-9ce44d3f7b6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\ENGINE">
+      <UniqueIdentifier>{6284da83-af60-4141-9ddc-3a1abd1c61e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\MENU">
+      <UniqueIdentifier>{722ed2e4-172b-4e2e-9d5e-9957936faa10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\GAME">
+      <UniqueIdentifier>{74452b7d-4311-4a3d-9587-c7fe641960e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\MENU">
+      <UniqueIdentifier>{c9665c64-a735-450d-8a64-16fed7eff0b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\GAME\WORLD OBJECTS">
+      <UniqueIdentifier>{4c68daa1-b7b4-4ec0-8302-ed3e0096c00c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ENGINE\MANAGERS">
+      <UniqueIdentifier>{06f89463-83ea-42df-8e70-f14a6f979b55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\ENGINE\MANAGERS">
+      <UniqueIdentifier>{b32bc877-47c7-4ab1-83e2-d61f35de2c55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\ENGINE\TOOLBOX">
+      <UniqueIdentifier>{e7ab3371-79e6-4beb-a341-3dd6587f5422}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ENGINE\TOOLBOX">
+      <UniqueIdentifier>{294d4791-6ce7-4cab-98e6-13dece13b8d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\GAME\STATES">
+      <UniqueIdentifier>{489f4a2c-b175-430d-b005-42a533d86d0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\LANGUAGES">
+      <UniqueIdentifier>{0ac1a55d-b6b8-45b8-ab6d-a0be0a698b5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\GAME\FISHING">
+      <UniqueIdentifier>{3d2364d6-66ee-4d51-8b39-6434ee140a19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\SHADERS">
+      <UniqueIdentifier>{168a444e-6a5e-4ef1-bdaf-d3d0dd590c96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\GAME\LOCATIONS">
+      <UniqueIdentifier>{edd9f838-a2c8-44df-8227-5f2d10d9bebc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\GAME\WORLD OBJECTS\ENTITIES">
+      <UniqueIdentifier>{6d2ccf70-79cc-46f4-a17a-55c9e73c45e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\GAME\WORLD OBJECTS\TERRAIN">
+      <UniqueIdentifier>{c7f917af-49bc-475d-b4a8-a9725b3d3041}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\GAME\WORLD OBJECTS\ENEMIES">
+      <UniqueIdentifier>{ad643dca-d84d-40c0-9712-3015140548c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\SHADERS\BIOMES">
+      <UniqueIdentifier>{ea76d88e-4b20-414c-8779-9c3cbf437fd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME">
+      <UniqueIdentifier>{48f34e85-fce3-4b6c-be60-3b425e525882}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS">
+      <UniqueIdentifier>{f5c3af04-b5f3-40b6-ace1-7249c4669ec5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENEMIES">
+      <UniqueIdentifier>{f18985d3-fd80-4e0b-abff-8daee3575c99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENTITIES">
+      <UniqueIdentifier>{41bc29b6-4440-431d-96ff-bb6515844c55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\TERRAIN">
+      <UniqueIdentifier>{0e32d541-1800-45ed-893f-6241755381e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\STATES">
+      <UniqueIdentifier>{6a2eb0b2-b9d0-4b6b-80d8-4fd45de03dec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\FISHING">
+      <UniqueIdentifier>{ba1eb163-86ef-4063-ae6e-57e4b56e8f4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\LOCATIONS">
+      <UniqueIdentifier>{cca5f115-e7b1-4fc3-a65d-3b78b4b9073b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="menu.c">
+      <Filter>Fichiers sources\MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="options.c">
+      <Filter>Fichiers sources\MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="map.c">
+      <Filter>Fichiers sources\GAME</Filter>
+    </ClCompile>
+    <ClCompile Include="light.c">
+      <Filter>Fichiers sources\GAME</Filter>
+    </ClCompile>
+    <ClCompile Include="math.c">
+      <Filter>Fichiers sources\ENGINE\TOOLBOX</Filter>
+    </ClCompile>
+    <ClCompile Include="tools.c">
+      <Filter>Fichiers sources\ENGINE\TOOLBOX</Filter>
+    </ClCompile>
+    <ClCompile Include="collisionManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="controller.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="dialogBox.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="fontManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="langManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="mouseManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="particlesManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="ressourcesManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="shaderManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="soundManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="stateManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="textureManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="viewManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="windowManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="pause.c">
+      <Filter>Fichiers sources\GAME\STATES</Filter>
+    </ClCompile>
+    <ClCompile Include="game.c">
+      <Filter>Fichiers sources\GAME\STATES</Filter>
+    </ClCompile>
+    <ClCompile Include="editor.c">
+      <Filter>Fichiers sources\GAME\STATES</Filter>
+    </ClCompile>
+    <ClCompile Include="fish.c">
+      <Filter>Fichiers sources\GAME\FISHING</Filter>
+    </ClCompile>
+    <ClCompile Include="hook.c">
+      <Filter>Fichiers sources\GAME\FISHING</Filter>
+    </ClCompile>
+    <ClCompile Include="cinematic_intro.c">
+      <Filter>Fichiers sources\GAME\STATES</Filter>
+    </ClCompile>
+    <ClCompile Include="cinematic_outro.c">
+      <Filter>Fichiers sources\GAME\STATES</Filter>
+    </ClCompile>
+    <ClCompile Include="fadeManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="opening_screen.c">
+      <Filter>Fichiers sources\GAME\STATES</Filter>
+    </ClCompile>
+    <ClCompile Include="dungeon.c">
+      <Filter>Fichiers sources\GAME\LOCATIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="lighthouse.c">
+      <Filter>Fichiers sources\GAME\LOCATIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="overworld.c">
+      <Filter>Fichiers sources\GAME\LOCATIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="colliders.c">
+      <Filter>Fichiers sources\ENGINE\TOOLBOX</Filter>
+    </ClCompile>
+    <ClCompile Include="bossTristesse.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENEMIES</Filter>
+    </ClCompile>
+    <ClCompile Include="bossJoie.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENEMIES</Filter>
+    </ClCompile>
+    <ClCompile Include="enemies.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENEMIES</Filter>
+    </ClCompile>
+    <ClCompile Include="biomeManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="inventory.c">
+      <Filter>Fichiers sources\MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="game_HUD.c">
+      <Filter>Fichiers sources\MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="editorHUD.c">
+      <Filter>Fichiers sources\MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="quest.c">
+      <Filter>Fichiers sources\MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="fx_boss.c">
+      <Filter>Fichiers sources\GAME</Filter>
+    </ClCompile>
+    <ClCompile Include="player.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="npc.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="ring.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="tears.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="bullets.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="bigRock.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="chest.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="current.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="expandingTile.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="pot.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="statue.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pot.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="moving_platform.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="box.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="moving_platform.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="debuffTear.c">
+      <Filter>Fichiers sources\GAME</Filter>
+    </ClCompile>
+    <ClCompile Include="fish_tank.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="credits.c">
+      <Filter>Fichiers sources\GAME\STATES</Filter>
+    </ClCompile>
+    <ClCompile Include="spidersTrees.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENEMIES</Filter>
+    </ClCompile>
+    <ClCompile Include="grass.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="vibrationManager.c">
+      <Filter>Fichiers sources\ENGINE\MANAGERS</Filter>
+    </ClCompile>
+    <ClCompile Include="drop_items.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="fishing_spot.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="brazier.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="note.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="openDoors.c">
+      <Filter>Fichiers sources\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="FXenemies.c">
+      <Filter>Fichiers sources\GAME</Filter>
+    </ClCompile>
+    <ClCompile Include="FXenemies.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="game_over.c">
+      <Filter>Fichiers sources\MENU</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="menu.h">
+      <Filter>Fichiers d%27en-tête\MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="options.h">
+      <Filter>Fichiers d%27en-tête\MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="map.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME</Filter>
+    </ClInclude>
+    <ClInclude Include="light.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CSFML_DLL_Project\sfBaseDllProject\dirent.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX</Filter>
+    </ClInclude>
+    <ClInclude Include="math.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX</Filter>
+    </ClInclude>
+    <ClInclude Include="tools.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX</Filter>
+    </ClInclude>
+    <ClInclude Include="collisionManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="fontManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="langManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="mouseManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="particlesManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="ressourcesManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="shaderManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="soundManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="stateManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="textureManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="viewManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="windowManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="controller.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="dialogBox.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\STATES</Filter>
+    </ClInclude>
+    <ClInclude Include="pause.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\STATES</Filter>
+    </ClInclude>
+    <ClInclude Include="fish.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\FISHING</Filter>
+    </ClInclude>
+    <ClInclude Include="hook.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\FISHING</Filter>
+    </ClInclude>
+    <ClInclude Include="cinematic_outro.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\STATES</Filter>
+    </ClInclude>
+    <ClInclude Include="cinematic_intro.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\STATES</Filter>
+    </ClInclude>
+    <ClInclude Include="fadeManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="editor.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\STATES</Filter>
+    </ClInclude>
+    <ClInclude Include="fx_boss.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME</Filter>
+    </ClInclude>
+    <ClInclude Include="colliders.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX</Filter>
+    </ClInclude>
+    <ClInclude Include="biomeManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="overworld.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\LOCATIONS</Filter>
+    </ClInclude>
+    <ClInclude Include="lighthouse.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\LOCATIONS</Filter>
+    </ClInclude>
+    <ClInclude Include="dungeon.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\LOCATIONS</Filter>
+    </ClInclude>
+    <ClInclude Include="bossTristesse.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENEMIES</Filter>
+    </ClInclude>
+    <ClInclude Include="bossJoie.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENEMIES</Filter>
+    </ClInclude>
+    <ClInclude Include="enemies.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENEMIES</Filter>
+    </ClInclude>
+    <ClInclude Include="editorHUD.h">
+      <Filter>Fichiers d%27en-tête\MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="quest.h">
+      <Filter>Fichiers d%27en-tête\MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="game_HUD.h">
+      <Filter>Fichiers d%27en-tête\MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="inventory.h">
+      <Filter>Fichiers d%27en-tête\MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="opening_screen.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\STATES</Filter>
+    </ClInclude>
+    <ClInclude Include="tears.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="npc.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="ring.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="bullets.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="bigRock.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="chest.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="current.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="expandingTile.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="pot.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="statue.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="moving_platform.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="pot.h">
+      <Filter>Fichiers d%27en-tête\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="moving_platform.h">
+      <Filter>Fichiers d%27en-tête\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="box.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="debuffTear.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME</Filter>
+    </ClInclude>
+    <ClInclude Include="fish_tank.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="credits.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\STATES</Filter>
+    </ClInclude>
+    <ClInclude Include="spidersTrees.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENEMIES</Filter>
+    </ClInclude>
+    <ClInclude Include="grass.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="vibrationManager.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\MANAGERS</Filter>
+    </ClInclude>
+    <ClInclude Include="FXenemies.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME</Filter>
+    </ClInclude>
+    <ClInclude Include="brazier.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="drop_items.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="fishing_spot.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="note.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="openDoors.h">
+      <Filter>Fichiers d%27en-tête\ENGINE\TOOLBOX\GAME\WORLD OBJECTS\TERRAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="FXenemies.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="game_over.h">
+      <Filter>Fichiers d%27en-tête\MENU</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Ressources\ressources.load">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="..\Ressources\Languages\en_us.json">
+      <Filter>Fichiers de ressources\LANGUAGES</Filter>
+    </None>
+    <None Include="..\Ressources\Languages\fr_fr.json">
+      <Filter>Fichiers de ressources\LANGUAGES</Filter>
+    </None>
+    <None Include="..\Ressources\Shaders\bidon.frag">
+      <Filter>Fichiers de ressources\SHADERS</Filter>
+    </None>
+    <None Include="..\Ressources\Shaders\light.frag">
+      <Filter>Fichiers de ressources\SHADERS</Filter>
+    </None>
+    <None Include="..\Ressources\Shaders\overlay.frag">
+      <Filter>Fichiers de ressources\SHADERS</Filter>
+    </None>
+    <None Include="..\Ressources\Shaders\spriteRecolor.frag">
+      <Filter>Fichiers de ressources\SHADERS</Filter>
+    </None>
+    <None Include="..\Ressources\Shaders\water_prototype.frag">
+      <Filter>Fichiers de ressources\SHADERS</Filter>
+    </None>
+    <None Include="..\Ressources\Shaders\multiply.frag">
+      <Filter>Fichiers de ressources\SHADERS</Filter>
+    </None>
+    <None Include="..\Ressources\Shaders\biome_mountain.frag">
+      <Filter>Fichiers de ressources\SHADERS\BIOMES</Filter>
+    </None>
+    <None Include="..\Ressources\Shaders\biome_cave.frag">
+      <Filter>Fichiers de ressources\SHADERS\BIOMES</Filter>
+    </None>
+    <None Include="..\Ressources\Shaders\biome_beach.frag">
+      <Filter>Fichiers de ressources\SHADERS\BIOMES</Filter>
+    </None>
+    <None Include="..\Ressources\Shaders\biome_dungeon.frag">
+      <Filter>Fichiers de ressources\SHADERS\BIOMES</Filter>
+    </None>
+    <None Include="..\Ressources\Shaders\pause_flou.frag">
+      <Filter>Fichiers de ressources\SHADERS</Filter>
+    </None>
+    <None Include="..\Ressources\Shaders\FishingGameShader.frag">
+      <Filter>Fichiers de ressources\SHADERS</Filter>
+    </None>
+  </ItemGroup>
+</Project>

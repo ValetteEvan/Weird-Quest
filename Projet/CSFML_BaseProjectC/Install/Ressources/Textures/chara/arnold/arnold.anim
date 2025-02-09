@@ -1,0 +1,8 @@
+[path]
+../Ressources/Textures/chara/arnold/spritesheet_arnold.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+arnold 0 0 118 126 4 1 0
+arnold_dialogue 0 126 118 126 3 1 0
+[end]

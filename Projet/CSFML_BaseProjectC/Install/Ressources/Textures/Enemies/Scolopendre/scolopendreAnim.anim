@@ -1,0 +1,12 @@
+[path]
+../Ressources/Textures/Enemies/Scolopendre/scolopendre.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+scolopendreUp 0 104 186 46 9 0.2 0
+scolopendreWalk 0 150 190 46 9 0.2 0
+scolopendreDown 0 196 182 44 9 0.2 0
+scolopendreVerticalUp 0 240 66 162 6 0.2 0
+scolopendreVerticalWalk 0 402 68 192 6 0.2 0
+scolopendreVerticalDown 0 594 64 206 9 0.2 0
+[end]

@@ -1,0 +1,45 @@
+araigne: 1 frame
+taille x1: 39x28
+taille x2: 78x56
+
+araigne_iddle: 4 frames
+taille x1: 37x28
+taille x2: 74x56
+
+araigne_impact: 1 frame
+taille x1: 36x31
+taille x2: 72x62
+
+araigne_walk: 4 frames
+taille x1: 40x31
+taille x2: 80x62
+
+sur arbre:
+araigne_descente: 9 frames 
+coordonées en x1: x=94 y=119
+taille x1: 48x65
+taille x2: 96x130
+
+
+coordonée pour les autres animation sur l'abre: (les coordonées on était pris en x1, il faut le mettre en x2)
+x=127
+y=119
+araigne_iddle_arbre: 7 frames 
+taille x1: 38x60
+taille x2: 76x120
+
+araigne_chute: 4 frames
+taille x1: 38x84
+taille x2: 76x168
+
+araigne_remonte: 6 frames
+taille x1: 38x65
+taille x2: 76x130
+
+araigne_impact: 1 frame
+taille x1: 36x61
+taille x2: 72x122
+
+
+
+

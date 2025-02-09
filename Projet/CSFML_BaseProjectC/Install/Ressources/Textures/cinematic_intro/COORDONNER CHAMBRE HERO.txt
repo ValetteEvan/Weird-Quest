@@ -1,0 +1,26 @@
+coordoner etage phausse
+
+
+LIT: 
+
+-Taille: 128x 210y
+
+-Position base: 790x ; 638y
+
+-Position final: 894x ; 638y
+
+
+TRAP:
+
+-Taille: 152x ; 118y
+
+-Position: 588x ; 834y
+
+
+COFFRE: 
+
+-Taille: 64x ; 64y
+
+-Position base: 824x ; 524y
+
+-A plancer sous le lit

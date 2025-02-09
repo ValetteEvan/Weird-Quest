@@ -1,0 +1,22 @@
+OMBRES
+
+Selon tailles des anims ! 
+
+Ombre 51x18 (x2 :102x36) : faune, chara (anim aux alentours 32x64), shaman, taille petit demon, taupe, chauve-souris, voltigeons, crabe, mouette
+Spritesheet : 36px
+
+Ombre mur 41x41 (x2 :82x82) : varan/cameleon
+Spritesheet : 118px
+
+Ombre 101x22 (x2 :160x80) : grand démon, anim phaos ? (ex: recup objet ?)
+Spritesheet : 162px
+
+Ombre 109x23 (x2 : 218x46) : scolopendre
+Spritesheet : 208px
+
+Ombre 145x27 (x2 : 290x54) : golem
+Spritesheet : 262
+
+Ombre 161x28 (x2 : 322x56) : vaisseaux du chaos
+Spritesheet : 318
+

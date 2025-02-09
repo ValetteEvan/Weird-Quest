@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/Enemies/The_Mole/The_Mole.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+moleOutHoleFace     0    764     74     74       12       0.03      0
+[end]

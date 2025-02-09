@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/HUD/feedback_exclam.png 
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+feedback_exclam_player 0 0 64 64 3 0.25 0
+[end]

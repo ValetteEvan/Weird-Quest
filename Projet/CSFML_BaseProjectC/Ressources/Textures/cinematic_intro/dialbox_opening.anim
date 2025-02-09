@@ -1,0 +1,7 @@
+[path]
+../Ressources/Textures/cinematic_intro/dialbox_opening.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+dialBoxOpening 0 0 1692 269 3 0.25 0
+[end]

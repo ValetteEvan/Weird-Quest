@@ -1,0 +1,9 @@
+[path]
+../Ressources/Textures/Enemies/Little_Ghost_Joy/littleJoy.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+littleJoyWalk        0     0     110     130       4       0.2      0
+littleJoyAttack      0     131     132     126       7       0.1      0
+littleJoyDead      0     257     118     146       12       0.1      0
+[end]

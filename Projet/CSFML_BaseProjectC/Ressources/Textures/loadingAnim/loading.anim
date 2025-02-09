@@ -1,0 +1,9 @@
+[path]
+../Ressources/Textures/loadingAnim/loading_V1.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+loadingWalk     0  1080  211   314 5   0.2	0 
+loadingBack      0    0    1920  1080  0   0.2   0
+loadingShadow   0  1394 670 56 0 0.2 0
+[end]

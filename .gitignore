@@ -1,0 +1,12 @@
+.vs/
+*.tlog
+*.obj
+*.log
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.recipe
+*.*.recipe
+Projet/CSFML_BaseProjectC/CSFML_BaseProjectFU/x64/Debug/collisionmanager.obj.enc
+Projet/CSFML_BaseProjectC/Ressources/Save/settings.txt

@@ -1,0 +1,11 @@
+[path]
+../Ressources/Textures/Enviro/Dungeon/FearDungeon/assets_dungeon_biome.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+dungeonPlcH_Press_plate 0 192 64 64 5 0.2 0
+dungeonPlcH_Brazier 0 448 64 64 6 0.2 0
+dungeonPlcH_Banner 0 512 64 128 6 0.2 0
+dungeonPlcH_litlChest 0 640 64 64 3 0.5 0
+dungeonPlcH_bigChest 0 704 128 128 3 0.5 0
+[end]

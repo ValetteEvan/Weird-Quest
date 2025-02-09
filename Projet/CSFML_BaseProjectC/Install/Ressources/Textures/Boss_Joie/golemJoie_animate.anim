@@ -1,0 +1,32 @@
+[path]
+../Ressources/Textures/Boss_Joie/SPRITE_SHEET_BOSS_JOIE.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+golemJ_spawn 0 0 164 270  8  0.2 0 
+golemJ_attractF 702 2010 234 328  2  0.33 0 
+golemJ_attractTD 876 2338 292 306  3  0.25 0 
+golemJ_attractTF 816 2644 272 322  2  0.33 0 
+golemJ_attractLoadF 234 2010 234 328  1  0.2 0 
+golemJ_attractLoadTD 292 2338 292 306  1  0.2 0 
+golemJ_attractLoadTF 272 2644 272 322  1  0.2 0 
+golemJ_death 0 5274 164 270  8  0.2 0 
+golemJ_discSpawn 0 470 228 214  3  0.2 0 
+golemJ_discF 0 1148 92 62  0  0.2 0 
+golemJ_discT 0 1056 94 92  0  0.2 0 
+golemJ_fistSpawn 0 270 192 200  5  0.2 0 
+golemJ_fistF 0 816 98 98  0  0.2 0 
+golemJ_fistTD 0 684 128 132  0  0.2 0 
+golemJ_fistTF 0 914 112 142  0  0.2 0 
+golemJ_fxHand 0 5036 222 238  4  0.2 0 
+golemJ_fxJump 0 4458 512 406  3  0.2 0 
+golemJ_fxSlash 0 4864 148 172  3  0.2 0 
+golemJ_fxStun 0 5544 188 118  2  0.2 0 
+golemJ_haloAttract 0 2966 494 494  0  0.2 0 
+golemJ_idleF 0 1746 164 264  2  0.2 0 
+golemJ_idleTD 0 1478 172 268  2  0.2 0 
+golemJ_idleTF 0 1210 172 268  2  0.2 0 
+golemJ_jumpF 0 3460 164 328  5  0.3 0 
+golemJ_jumpTD 0 4094 174 364  5  0.3 0 
+golemJ_jumpTF 0 3788 172 306  5  0.3 0 
+[end]

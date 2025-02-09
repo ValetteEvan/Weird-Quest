@@ -1,0 +1,12 @@
+[path]
+../Ressources/Textures/Enemies/Crab/crab.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+crabAttract        0     286     70     62       3       0.2      0
+crabIdle        0     112     70     58       5       0.2      0
+crabInHome        0     348     72     64       17       0.2      0
+crabOutHome        0     412     74     64       11       0.2      0
+crabStun        0     228     70     58       3       0.2      0
+crabWalk        0     170     70     58       5       0.2      0
+[end]

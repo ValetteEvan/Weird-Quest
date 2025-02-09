@@ -1,0 +1,71 @@
+-----fist appear-----
+       0
+ 98x98 4 frames
+
+-----fist idle-----
+       98
+ 98x102 3 frames
+
+-----fist side idle-----
+       200
+ 112x148 3 frames
+
+-----fist grow v1-----
+       348
+ 128x134 7 frames
+
+-----fist grow v2-----
+       482
+ 256x268 8 frames
+
+-----disc appear-----
+       750
+ 92x65 4 frames
+
+-----disc idle-----
+       815
+ 92x67 2 frames
+
+-----disc side idle-----
+       882
+ 94x94 2 frames
+
+-----boss side idle-----
+       976
+ 172x266 3 frames
+
+-----boss idle-----
+       1242
+ taile : 166x266 3 frames
+
+-----boss awaken-----
+       1508
+ 169x320 17 frames
+
+-----boss shine-----
+       1828
+ 166x266 8 frames
+
+-----sad-----
+       2094
+ 40x40 6 frames
+
+-----tear fall-----
+       2134
+ 58x122 2 frames
+
+-----tear drop-----
+       2256
+ 206x194 8 frames
+
+-----explosion wall-----
+       2450
+ 496x404 7 frames
+
+-----explosion ground-----
+       2854
+ 496x404 7 frames
+
+-----crack ground-----
+       3258
+ 404x212

@@ -1,0 +1,39 @@
+-----mich_idle-----
+        0
+144x108 4 frames
+
+-----mich_angry-----
+       108
+144x108 7 frames
+
+-----mich_attack-----
+       216
+144x104 3 frames
+
+-----mich_hitframe-----
+       320
+144x104
+
+-----darkmich_idle-----
+       424
+144x108 4 frames
+
+-----darkmich_angry-----
+        532
+144x108 7 frames
+
+-----darkmich_attack-----
+        640
+144x104 3 frames
+
+-----darkmich_hiframe-----
+        744
+144x104
+
+-----darkmich_run-----
+        848
+144x104 3 frames
+
+-----mich_run-----
+       952
+144x104 3 frames

@@ -1,0 +1,13 @@
+	   SPRITES SOLO
+
+-mentor idle face : 136 x 160  
+-mentor idle dos : 136 x 160  
+-mentor talking : 132 x 160  
+-mentor saignement à genou : 134 x 160  
+
+	   SPRITES SHEETS
+
+- mentor iddle face : 136 x 160  4 frames   160px
+- mentor iddle dos : 136 x 160  4 frames   320px
+- mentor talking : 132 x 160  3 frames   480px
+- mentor saignement à genou : 134 x 160  20 frames   640px

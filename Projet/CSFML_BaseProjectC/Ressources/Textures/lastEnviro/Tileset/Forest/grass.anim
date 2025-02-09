@@ -1,0 +1,8 @@
+[path]
+../Ressources/Textures/Enviro/Tileset/Forest/tileset_grass.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+grass1 0 384 64 64 5 0.1 0
+grass2 0 0 64 64 5 0.1 0
+[end]

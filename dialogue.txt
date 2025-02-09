@@ -1,0 +1,62 @@
+"note.mentor.1": "Le chaos a frappé. Je dois tout de suite me rendre dans les différents temples avant de voir l'être-monde déchaîner sa colère. L'heure est grave, je vais devoir soliciter toute l'aide requise, 
+la Shamane et le collectionneur seront probablement d'une grande aide. Je me souhaite force et courage... Que l'esprit des gardiens soit avec moi.",
+
+Si joueur essaye de traverser l'eau: la Shamane parle: jeune gardien, il est encore trop tôt pour t'aventurer si loin...
+Si réessaye de traverser: Jeune impétueux, il te reste tant de chose à découvrir sur cette île ! Reviens sur tes pas !
+Si vraiment: Je te dis qu'il ne faut pas traverser ! N'as-tu donc rien appris avec ton mentor !?!
+
+Salut, jeune gardien! Comment vas-tu? J'ai ressenti cette terrible secousse, j'imagine que tu vas avoir besoin d'aide. J'ai pour toi un objet fort utile, avant de te le donner, j'aurais un service à te demander. Pourrais-tu me débarasser des serpents qui, depuis le tremblement de terre, sont devenus très agressifs? Je ne peux plus me balader dans la forêt à ma guise. Les plus agressifs seront trouvables facilement, les plus vicieux sont cachés dans les herbes hautes.
+Merci, jeune gardien! Reviens me voir quand tu as finis !
+Que l'esprit des gardiens soit avec toi !
+
+Shamane: Bienvenue à toi, jeune gardien. L'heure est grave, mais soit tranquille ! Je vais t'aider. En l'état, ta capuche n'est pas assez puissante, va d'abord voir mon cher ami Arnold, il se trouve dans la forêt. J'ai la capacité de communiquer avec toi à tout moment, je suis la Shamane, après tout. *rire malicieux*
+Diriges-toi vite vers la forêt, jeune gardien.
+
+après avoir tué les serpents: Merci encore, jeune gardien ! Tu m'as rendu un sacré service ! Voici ta récompense...
+*ouverture du codex*
+après anneau de capture: Cet anneau te permettra de capturer et collectionner des créatures. Tu peux voir plus d'information sur les objets et créatures que tu trouveras dans ton bestiaire !
+*shamane te contacte* 
+Hey, jeune gardien ! Je suis la shamane, près de la montagne, tu te souviens ? grâce à cet anneau, tu vas pouvoir capturer des éléments nécessaires à l'éveil de ta capuche totem ! Pour commencer, ramènes-moi trois araignées yoyo ! Je te laisse entrre les mains d'Arnold pour t'expliquer où et comment les attraper. Reviens me voir quand cela sera fait ! 
+*rire maléfique*
+Tu dois capturer des araignées yoyo? Super! La forêt en regorge ! Pour se faire, soit attentif. Certains arbres sont claffis de toiles d'araignées, il te faudra une bonne charge à l'épaule pour les déloger. Regarde ! Il y a un arbre juste là, il y a probablement une araignée dedans. Essaye de la faire tomber ! *fin du bully*
+Toujours arnold: tuto charge à l'épaule: Reste appuyé sur *cette touche* pour charger, et lâche cette touche pour foncer !
+Arnold après yoyo: met lui un coup de bâton ! *coup de bâton* *araignée tombe* Maintenant ! Tu peux la capturer ! *capturer l'araignée* Bravo! Fait la même chose pour deux autres araignées, et tu pourras les rapporter à la Shamane !
+*retour vers la Shamane*
+Shamane: *rire maléfique* Tu as réussi à me ramener des araignées ! Parfait ! Merci beaucoup, jeune gardien ! Je vais pouvoir améliorer ta capuche... *amélioration de la capuche*
+C'est la capuche totem du cochon, grâce à elle, tu vas pouvoir ressentir toute forme d'énergie dans l'être-monde, une sorte de boussole, très pratique, *rire maléfique* *fin de l'anim*
+tuto capuche totem: Essayes tout de suite ce magnifique pouvoir, appuie sur *cette touche* pour l'activer ! *sfx et vfx cochon* *dial box obligatoire*: observes le rythme avec laquelle ta nouvelle capuche fonctionne ! \n
+Si la fréquence est élevée, c'est que tu te rapproches, sinon c'est que tu t'éloignes. Utilises-le pour localiser ton maître ! *rire maléfique*
+
+note du mentor derrière le donjon: Je suis sur les traces d'une étrange entitée maléfique... Le temple de la joie a été souillé, les poissons de la joie ont été dispersés. Je n'ai malheureusement pas le temps de les récupérer, je fonce tout de suite dans le temple protéger la statue sacrée !
+*peche* *toggle quete peche*
+Shamane: Jeune gardien ! Tu pourrais aider ton mentor en retrouvant les poissons sacrés de la joie, Arnold peut t'aider, il possède une échope sur chacune des îles. utilise ta capuche pour le retrouver. *quete retrouver arnold*
+
+Devant échope arnold: Hey man! La Shamane m'a contactée, alors comme ça tu voudrais apprendre à pêcher? Heureusement, pour le bien de ma collection, j'ai dû pêcher de féroces poissons. Je suis certain que je peux t'aider ! Tout d'abord, tu dois repérer les zones de pêche. Est-ce que tu remarques ces ondulations à la surface de l'eau ? Approches-toi, et utilises ton anneau pour pêcher !
+narrateur: voulez-vous pêcher ?
+*tuto pêche*
+*pêche du vrai poisson*
+*fade out / in ?*
+Arnold: C'est génial, Phaos ! Tu as réussi à récupérer un poisson de la joie ! Il existe deux autres zones de pêche sur cette île, tu peux utiliser tes nouveaux pouvoirs pour les localiser ! Je te souhaite bonne chance !
+*pecher les trois poissons*
+
+Shamane: Jeune gardien, tu as à présent tous les poissons de la joie. Retrouve la fontaine sacrée pour stabiliser l'équilibre émotionnel de l'être-monde. *rire maléfique*
+Si pas de poissons mais temple: Shamane: *rire maléfique* mon cher petit gardien, tu ne peux pas entrer dans ce temple sacrée sans les poissons.
+
+*Arrivée temple de la joie*
+*Mentor vs antagonist 1v1*
+Mentor: Tu es donc l'être maléfique que mes ancêtres cragnaient... Je me suis préparé toute ma vie. Je suis le gardien de cette île, et je vais metttre un terme à tes actions IMMEDIATEMENT !
+Antagoniste: Tsss, encore un empêcheur de tourner en rond. M'enfin, bientôt, tous ces êtres disparaîtront. Je peux l'ignorer. Un de mes sbires va s'en occuper. *animation statue proche de l'antagoniste*
+Mentor: Je ne te laisserais pas faire !
+*le joueur peut de nouveau bouger, fin de la cinématique*
+*fade out/in*
+*obtention anneau* Shamane: "Lié à ton bâton de gardien, cet anneau te permettra d'attirer toutes sortes d'entitée non-humaine vers toi. Fais-en bon usage !"*rire maléfique* 
+
+Après avoir battu le golem:
+Fontaine: Shamane: "Tu peux maintenant libérer les poissons."
+*obtention totem pieuvre*
+Shamane: "Bravo, jeune gardien. Tu as obtenu le totem de la pieuvre, grâce à cela, tu pourras nager comme un poisson dans l'eau." *rire maléfique*
+
+En sortant du temple:
+Shamane: Félicitations, Phaos. En ramenant la paix dans l'île de la joie, tu viens de faire un grand pas dans ta formation d'apprenti. *rire maléfique*
+
+Capuche cochon emmène vers note du mentor dans l'eau (nécessite pieuvre) : Cette maléfique entitée se dirige maintenant vers le temple de la tristesse... Je dois l'empêcher de le souiller, je suis sûr que j'en suis capable. Sinon, qui pourra l'en empêcher...

@@ -1,0 +1,14 @@
+Numpad1/Numpad2 change tiles
+1 : Layer ground
+2 : Layer props
+3 : Layer other
+
+O/L : Zoom in/out
+RClick : Erase tool
+LClick : Use/Place tile
+
+B/N : change maps
+LShift : save map
+
+Up/Down arrow : add/remove row
+Left/Right arrow : add/remove column

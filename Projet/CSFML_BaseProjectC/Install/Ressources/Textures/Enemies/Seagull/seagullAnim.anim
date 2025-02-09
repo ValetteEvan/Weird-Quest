@@ -1,0 +1,11 @@
+[path]
+../Ressources/Textures/Enemies/Seagull/seagull.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+seagullIdle        0     62     100     60       6       0.2      0
+seagullEat         0     0      100     62       21      0.2      0
+seagullToFly       0     122    110     72       7       0.2      0
+seagullFly1        0     194    108     66       5       0.2      0
+seagullFly2        0     260    108     66       5       0.2      0
+[end]

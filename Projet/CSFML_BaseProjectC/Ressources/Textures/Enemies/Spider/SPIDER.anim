@@ -1,0 +1,11 @@
+[path]
+../Ressources/Textures/Enemies/Spider/sprite_sheet_araigne.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+spider_IDLE 0 366 76 120 6 0.2 0
+spider_DOWN 0 236 96 130 8 0.2 0
+spider_FALL 0 487 76 168 3 0.2 0
+spider_UP 0 655 76 130 5 0.2 0
+spider_WALK 0 174 80 62 3 0.2 0
+[end]

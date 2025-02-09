@@ -1,0 +1,421 @@
+{
+	"id": "0",
+	"language_name": "English",
+	"test_line": "This is not a test",
+
+	"menu.settings": "SETTINGS",
+	"menu.menu": "MENU",
+	"menu.editor": "EDITOR",
+	"menu.quit": "QUIT",
+	"menu.play": "PLAY",
+	"menu.new.game": "NEW GAME",
+	"menu.continue": "CONTINUE",
+
+	"menu.options.settings": "SETTINGS",
+	"menu.options.back": "BACK",
+	"menu.options.fullscreen": "FULLSCREEN",
+	"menu.options.sfx.volume": "SFX VOLUME",
+	"menu.options.music.volume": "MUSIC VOLUME",
+	"menu.options.language.selection": "LANGUAGE SELECTION",
+
+	"name.mentor": "Mentor",
+	"name.arnold": "Arnold",
+	"name.shamane": "Shaman",
+	"name.antagonist": "Antagonist",
+	"name.note_mentor": "Mentor's Note",
+
+	"name.pig.totem": "Pig Totem",
+	"got.pig.totem": "Obtained hook totem of the pig.",
+	"explain.pig.totem": "The sense of smel of this beautiful aine is used to detect items.",
+	"use.pig.totem": "Press (LB) to use.",
+
+
+	"name.octopus.totem": "Octopus Totem",
+	"got.octopus.totem": "Obtained hook totem of the octopus.",
+	"explain.octopus.totem": "With this hook, dive and swim like a fish in water.",
+
+
+	"name.eagle.totem": "Eagle Totem",
+	"got.eagle.totem": "Obtained hook totem of the eagle.",
+	"explain.eagle.totem": "Wear it and dive into the void for the eagles spirit to push you into the sky.",
+
+
+	"name.chameleon.totem": "Chameleon Totem",
+	"got.chameleon.totem": "Obtained hook totem of the chameleon.",
+	"explain.chameleon.totem": "Wear it to hide from ennemies !",
+
+	"name.guardian.stick": "Guardian Stick",
+	"got.guardian.stick": "Obtained guardians stick.",
+	"explain.guardian.stick": "It will probably be useful later. Though he seems incomplete...",
+	"use.guardian.stick": "Press (X) to use.",
+
+	"name.guardian.ring": "Guardian Ring",
+	"got.guardian.ring": "Obtained guardians ring.",
+	"info.guardian.ring": "Thanks to the collector, the stick seems complete.",
+	"explain.guardian.ring": "Chase and catch what pleases you.",
+
+	"name.joy.ring": "Joy Ring",
+	"got.joy.ring": "Obtained joy ring.",
+	"info.joy.ring": "A warm aura comes from it.",
+	"explain.joy.ring": "Use it with the guardians stick to attract items and creatures to you.",
+
+	"name.sadness.ring": "Sadness Ring",
+	"got.sadness.ring": "Obtained sadness ring.",
+	"info.sadness.ring": "A depressing aura comes from it.",
+	"explain.sadness.ring": "Use it with the guardians stick to repulse items and creatures far away from you.",
+
+	"name.scare.ring": "Scare Ring",
+	"got.scare.ring": "Obtained scare ring",
+	"info.scare.ring": "A terrifying aura comes from it.",
+	"explain.scare.ring": "Use it with the guardians stick to stop items and creatures in time.",
+
+	"name.anger.ring": "Anger Ring",
+	"got.anger.ring": "Obtained anger ring.",
+	"info.anger.ring": "A stimulating aura comes from it.",
+	"explain.anger.ring": "Use it with the guardians stick to destroy everything on your way.",
+
+	"name.joy.fish": "Joy Fish",
+	"got.joy.fish": "Obtained joy fish.",
+	"info.joy.fish": "This teasing fish doesnt seem to be on his natural habitat.",
+
+	"name.sadness.fish": "Sadness Fish",
+	"got.sadness.fish": "Obtained sadness fish.",
+	"info.sadness.fish": "This cockroach fish doesnt seem to be on his natural habitat.",
+
+	"name.scare.fish": "Scare Fish",
+	"got.scare.fish": "Obtained scare fish.",
+	"info.scare.fish": "This distraught fish doesnt seem to be on his natural habitat.",
+
+	"name.anger.fish": "Anger Fish",
+	"got.anger.fish": "Obtained anger fish.",
+	"info.anger.fish": "This hostile fish doesnt seem to be on his natural habitat.",
+
+	"name.craborail": "Craborail",
+	"info.craborail": "The craborail is a crustacean that walks in the South beach. Be aware, he would not hesitate to pinch !",
+
+	"name.sablamandre": "Sablamandre",
+	"info.sablamandre": "The sablamandre is a reptile that hides in the East plage below rocks. She will not get caught easily !",
+
+	"name.seagull": "Seagull",
+	"info.seagull": "The seagul is the only passive animal. He surrounds beaches and the lighthouse. You cant touch him !",
+
+	"name.voltigeon": "Voltigeon",
+	"info.voltigeon": "The voltigeon is a little bug living in mountains. Catch it before it flees !",
+
+	"name.centipede": "Centipede",
+	"info.centipede": "The centipede wanders in moutains. It stays in dark places but doesnt hesitate to leave it to rush you if you get too close.",
+
+	"name.varan": "Varan",
+	"info.varan": "The varan is a malicious creature, that camouflages in moutains. Hes always ready to attack with his tongue.",
+
+	"name.mole": "Mole",
+	"info.mole": "Moles moves underground and sometimes leaves to attack. Take this little time to fight her.",
+
+	"name.bat": "Bat",
+	"info.bat": "Bats wanders in the heart of the moutain. If you attack them, they will chase you.",
+
+	"name.yoyo": "Yoyo",
+	"info.yoyo": "Yoyos are small spiders that lives in trees. They hide but can leave their hiding spot if you shake them too much.",
+
+	"name.poisonous.spider": "Poisonous Spider",
+	"info.poisonous.spider": "Be aware ! Contrary to his cousin the yoyo, this spider will not hesitate to attack !",
+
+	"name.mosquito": "Mosquito",
+	"info.mosquito": "The mosquito is a species that flies around the forest. Dont get stinged !!",
+
+	"name.snake": "Snake",
+	"info.snake": "The snake appears when tall grasses are cut, be aware of bites.",
+
+	"name.goose": "Goose",
+	"info.goose": "The goose is found in plains. Its a completely passive bird... But be aware, she is completely disengage and will not hesitate to attack !",
+
+	"name.goat": "Goat",
+	"info.goat": "Calm, goats will not attack unless they have to defend themselves.",
+
+	"name.big.joy.demon": "Big joy demon",
+	"info.big.joy.demon": "Despite his friendly appearances, he will not hesitate to defend his habitat. These demons are found in the temple of joy.",
+
+	"name.little.joy.demon": "Little joy demon",
+	"info.little.joy.demon": "Less tall and less powerful that his cousin the big joy demon, hes as combative as him.",
+
+	"name.joy.golem": "Joy Golem",
+	"info.joy.golem": "Statue that beclmes the final boss of the temple of joy, hes corromped by the antagonist. On purifying him, you have proven your strength as a guardian apprentice.",
+
+	"name.big.sadness.demon": "Big sadness demon",
+	"info.big.sadness.demon": "Its appearance is demoralizing, they wander in the temple of sadness.",
+
+	"name.little.sadness.demon": "Little sadness demon",
+	"info.little.sadness.demon": "These little demons are wandering while letting a trail of tears behind him.",
+
+	"name.sadness.golem": "Sadness Golem",
+	"info.sadness.golem": "Statue that becomes the final boss of the temple of sadness, hes corromped by the antagonist. On purifying him, you have proven once again your strength as a guardian apprentice.",
+
+	"name.big.scare.demon": "Big scare demon",
+	"info.big.scare.demon": "This demon is found in the temple of scare, they hide but will attack if needed.",
+
+	"name.little.scare.demon": "Little scare demon",
+	"info.little.scare.demon": "Like his cousin the big scare demon, they hide and atttack in case of danger.",
+
+	"name.scare.golem": "Scare Golem",
+	"info.scare.golem": "Statue that becomes the final boss of the scare temple, hes corromped by the antagonist. On puriying him you have proven a third time your strength as a guardian apprentice.",
+
+	"name.big.anger.demon": "Big anger demon",
+	"info.big.anger.demon": "These big demons walks around in the temple of anger. They destroy everything they can.",
+
+	"name.little.anger.demon": "Little anger demon",
+	"info.little.anger.demon": "Less tall than others, they are as agressive.",
+
+	"name.anger.golem": "Anger Golem",
+	"info.anger.golem": "Statue that becomes the final boss of the temple of anger, it is corrupted by the antagonist. By purifying it you have shown that you are worthy of the title of guardian.",
+
+	"name.necromancer": "Necromancer",
+	"info.necromancer": "powerful antagonist in revenge, he will face you at the top of the lighthouse, always accompanied by his chaos ship for a summit war",
+
+	"name.phaos": "Phaos",
+	"info.phaos": "You are the one, a little guardian apprentice who want to find his master, stay determined and keep the world safe !",
+
+	"ellipsis.two.weeks": "Two weeks have passed and still no sign of the mentor...",
+	"cannot.jump": "No... I dont feel ready, Im missing something.",
+	"lighthouse.can.jump": "Do you want to jump ? You will not be able to go back afterwards.",
+	"lighthouse.choice.lets.go": "Lets go !",
+	"lighthouse.choice.no": "Ultimately no",
+	"statue.what.to.do": "What do you want to do ?",
+	"statue.save": "SAVE",
+	"statue.check.map": "CHECK MAP",
+	"statue.teleport": "TELEPORT",
+	"choice.save": "Do you want to save your progress ?",
+	"choice.yes": "yes",
+	"choice.no": "no",
+	"saving.game": "Saving the game... Dont quit the game...",
+	"new.teleport": "A ne teleportation point has been added to the map.",
+	"where.to.teleport": "Where do you want to teleport ?",
+	"choice.montain": "Moutain",
+	"choice.forest.exterior": "Entrance of the forest",
+	"choice.forest.interior": "Interior of the forest",
+	"choice.south.beach": "South beach",
+	"choice.east.beach": "East beach",
+
+	"hint.temple.statue": "The statue seems to want to say something... You hear a murmur...",
+	"hint.joy.1": "When the pigs aine starts to growl, dont hesiitate to charge.",
+	"hint.joy.2": "You need to learn to extend yourself to new horizons",
+	"hint.joy.3": "When traps disappears, the exit appears.",
+
+	"hint.sadness.1": "You need to fall and bounce to succeed.",
+	"hint.sadness.2": "The bareer will disappear when everything will be at the right place.",
+
+	"opening.anim.1": "In an alternative world surrounded of \nmystical items and creatures...",
+	"opening.anim.2": "Is found a magical island, lost in \nthe heart of clouds.",
+	"opening.anim.3": "There exists guardians protecting and \nmonitoring the island from generations to generations...",
+	"opening.anim.4": "So that the portal of emotions, leading to \nother dimensions, doesnt activate.",
+	"opening.anim.5": "They contemplate the island, in a place where \nprones serenity: the lighthouse of guardians.",
+	"opening.anim.6": "After centuries of peace, the arrival of a powerful \nmalicious entity broke the balance between the good and the bad...",
+
+	"shaman.mountain.1": "Nice to meet you, little guardian. Could you go catch some craborails for me ? I shall reward you as you should be.",
+	"shaman.mountain.1.repeat": "Already forgot my request ? Get me 5 craborals, little guardian.",
+	"shaman.mountain.2": "Thank you, little guardian... As promised, heres a ring as a reward. Now I would like you to go catch 5 yoyos. Be aware of not getting stinged...",
+	"shaman.mountain.2.repeat": "Dear guardian, get me 5 yoyos.",
+	"shaman.mountain.3": "Oh, what beautiful creatures... Thanks, guardian Phaos, I offer you this hook, totem of the pig. It will help you chase items thanks to its aine.",
+	"shaman.mountain.4": "Get me 2 sandamanders and 3 yoyos, guardian Phaos... You should also go talk to Arnold, he probably has something to give me.",
+	"shaman.mountain.5": "This beetle is perfect, guardian Phaos ! I can now upgrade your hook...",
+	"shaman.wait": "Good morning, young guardian. I have nothing to offer you today. Perhaps Arnold could help you ?",
+
+	"arnold.1": "Isnt that our small guardian Phaos ! In trade of a few snakes, Ill give you a little something just for you, I am sure you are gonna like it.",
+	"arnold.1.repeat": "Dont forget, I only need 5 snakes.",
+	"arnold.2": "Thanks mosquito, that is kind of you. Here, take this beautiful ring, I dont use it but it releases something mystical. Im sure you will find how to use it.",
+	"arnold.3": "Here is Phaos again ! I recently found tha there was some small fishes that werent at their place, you should let them back at the temple of joy.",
+	"arnold.3.repeat": "Dont forget to let those 7 fishes back to their basin at the end of the temple of joy.",
+	"arnold.4": "Hi, Phaos ! So old shaman wants something special from me? Go get me a pair of sandamanders and I will give you just that.",
+	"arnold.4.repeat": "Two sandamanders, two !! In trade of a mystery item.",
+	"arnold.5": "Thanks, dear Phaos ! Here, take this beautiful beetle that you can give her, be aware, there is still fishes in the wrong place.",
+	"arnold.5.repeat": "Dont forget to let the fishes in their habitats. Poor fishes... They are already not happy...",
+	"arnold.6": "The shaman still needs my services, in exchange of 5 voltigeons I will give you what she wants. ",
+	"arnold.6.repeat": "I need 5 voltigeons, dont forget !",
+	"arnold.6.back": "Thanks Phaos, take this. Its strange, it seems like in every islands, fishes are not in the right place...",
+	"arnold.7": "What would do the shaman without me, she always needs my services. Give me 5 craborals and I will give you what she wants.",
+	"arnold.7.repeat": "I need 5 craborails.",
+	"arnold.7.back": "How fast ! Thanks Phaos, take this, the shaman needs it. I found out that there is fishes in the wrong place here as well. Be aware, those area bit agressive.",
+	"arnold.wait": "Hi, brave Phaos, old shaman doesnt need me today. Good luck on your adventures !",
+
+	"mentor.lighthouse.1": "Phaos... Phaos... ... PHAOS",
+	"mentor.lighthouse.2": "Oh finally !! You finally woke up, I have no time to explain, duty calls me. And you, watch over the lighthouse. You are only an apprentice, you will be more useful here.",
+	"mentor.lighthouse.3": "I will be returning shortly !",
+	"mentor.joy": "Stop ! Who are you, what are you  searching ? You respect nothing !",
+	"mentor.sadness": "Come back here !",
+	"mentor.scare": "...Come battle me if you're a man ! I'm the guardian of this island, I order you to stop !",
+	"mentor.anger": "Surrender now and I will maybe be clement !!",
+	"mentor.final.1": "No... Imp... Impossile ! Miserable ! S..stop...",
+	"mentor.final.2": "Whats th...PHAOS, run ! Run as far as you can, you are not at his level !",
+
+	"antagonist.joy": "You really think I will obey you ? Run, miserable bug",
+	"antagonist.sadness.1": "... Only two temples left ...",
+	"antagonist.sadness.2": "You again ? What a pain !",
+	"antagonist.scare.1": "And that makes three. Just one more and I will finally be able t..",
+	"antagonist.scare.2": "The showdown is close... Yes...",
+	"antagonist.anger.1": "I finally finished with those temples, this world is not useful anymore... Every pieces are ready.",
+	"antagonist.anger.2": "NEVER ! MWAHAHAHAHA !",
+	"antagonist.final.1": "MWAHAHAHA ! I finallyy did it... The portal is MINE !",
+	"antagonist.final.2": "What else? You want to fight, microbe ? With this machine, I am unbeatable. Come here, Im waiting for you !",
+
+	"mentor.note.1": "Dear ancestors, the tranquilty and security of the island is compromised... What to do, I prepared for this all my lufe but... I will now find and fight the ennemi. I am immediately going to the temple of joy. Give me strength, dear ancestors...",
+	"mentor.note.2": "This man... He is diabolical ! How does he dare to flour this placce ! I missed him, but I will get him next time. Hes going to the templeof joy, I immediately have to end his actions !",
+	"mentor.note.3": "I failed again... I thought I would succeed, but this man stops at nothing ! I think I understand what he wants to do with this chaos and that leads to nothing good... Hes now going to the temple of scare, and this time I will get him !",
+	"mentor.note.4": "He managed to escape, I think hes close to his goal. Oh dear ancestors, this man respects nothing. He is making his way to the temple of anger, if he succeeds I will not be able to stop him...",
+	"mentor.note.5": "I was right, he wants to use the portal below the lighthouse, if I can stop him from getting to the portal, maybe I can stop him. It is my last chance, I have to succeed, otherwise I dont deserve to be the guardian...",
+
+	"final.anim.1": "Finally you are here, guardian Phaos, I waited this moment for so many years...",
+	"final.anim.2": "I will reduce to dust you annnd finally reach my prime...",
+	"final.anim.3": "I will finally destroy this island that I curse...",
+	"final.anim.4": "slash",
+	"final.anim.5": "ough..",
+	"final.anim.6": "splash",
+	"final.anim.7": "Wh ... WHAT ...",
+	"final.anim.8": "...",
+	"final.anim.9": "blast",
+	"final.anim.11": "Come right here, Phaos, I need to give you something important...",
+	"final.anim.12": "Little boy, I apologies. I waswrong about you... You proved your valor and loyauty during your stay in the island. I am proud of you, little guardian...",
+	"final.anim.13": "Now you need to help us get rid of this damn intruder. Dont worry, youre not alone...",
+	"final.anim.14": "You ?... How is it possible? Anyways, I will succeed at eliminating you all. No matters if you are five, I am the very best and I battle alone...",
+	"final.anim.15": "You will taste my anger, bad of weaklings...",
+	"final.anim.17": "MOUAHAHAH",
+	"final.anim.18": "Now that this damn portal is active, you cannot stop me !",
+	"final.anim.19": "If you think that we are scared of you, you are wrong, dirty necromancer. Phaos, are you ready to join us to get back the peace in the world ?",
+	"final.anim.20": "Mmh?... Fleeing your destiny again ? Wherever you go, we will find you back...",
+	"final.anim.22": "Mouahahah, the day where I will face you again, I will kill you one by one, until theres no more of you...",
+
+	"statue.test.save": "Game saved.",
+	"fish.view.joy": " This is the fish of joy. It swims \n around in the red portion  of \n the screen. It is a very naive \n fellow and will go for anything \n that looks like food or a toy. \n Press A to release your ring.",
+	"fish.reel": " You can use the reel to adjust \n the ring's speed.Try changing \n your ring's speed \n with LT and RT.",
+	"fish.range": " The fish of joy is rather slow, \n but be careful not to let it gulp \n your ring. If the fish starts \n chasing the ring, reel it away.",
+	"fish.eat": " Be careful, you can't afford \n to lose your ring, if the \n fish gets too close, you'll have \n to teleport it back to you",
+	"fish.catching.zone": " Your head represents the \n catching zone.You can catch \n the fish by leading it into \n this area.Try to bring \n the fish into this area and \n press LB or RB to catch the fish.",
+	"fish.view.sadness": " This is the fish of sadness.\n It is a very shy \n creature and will flee from \n anything that is near him. \n Press A to release your ring.",
+	"fish.power.attract": " Use your power of attraction \n to influance the fish. \n If the fish is attracted to you, \n it will follow you so \n you can catch it. Press A to \n use your power of attraction.",
+	"statue.test.advice": "Everything is edible if you try hard enough.",
+	"statue.test.map": "Do I look like a taxi to you?",
+	"statue.test.back": "Stop bothering me.",
+
+
+	"game.lighthouse.found_staff_1": "You found the\nGUARDIAN'S STAFF!",
+	"game.lighthouse.found_staff_2": "It seems incomplete, but will most likely come in handy later.",
+	"game.lighthouse.found_staff_3": "Press X to swing it at things.",
+
+	"pause.desc.nb.obj": "number of object : ",
+	"pause.title.pause": "PAUSE ",
+	"pause.title.character": "CHARACTER ",
+	"pause.title.bestiary": "BESTIARY",
+	"pause.title.hunt": "Hunt",
+	"pause.title.fishing": "Fishing",
+	"pause.title.fight": "Fight",
+	"pause.title.bestiary.hunt": "BESTIARY : HUNT",
+	"pause.title.bestiary.fishing": "BESTIARY : FISHING",
+	"pause.title.bestiary.fight": "BESTIARY : FIGHT",
+	"pause.title.quest": "QUEST",
+	"pause.title.quest.mentor": "Mentor",
+	"pause.title.quest.shaman": "Shaman",
+	"pause.title.quest.arnold": "Arnold",
+	"pause.title.option": "SETTINGS",
+	"pause.title.option.min": "Settings",
+	"pause.title.option.exit.menu": "Exit to Menu",
+
+
+
+	"HUD.data.item": "New data in the character menu",
+	"HUD.data.bestiary.hunt": "New data in the bestiary : hunt",
+	"HUD.data.bestiary.fishing": "New data in the bestiary : fishing",
+	"HUD.data.bestiary.fight": "New data in the bestiary : fight",
+
+
+
+	"dialog.arnold.greet": "The collector seems too busy counting the spiders in a jar to even notice you.",
+
+	"dialog.arnold.snakes": "Hi, young guardian ! How are you doing ? I felt this terrible shock, I bet you will need some help. Ive got a very useful item for you, but I give it to you, I would like you to help me. Could you get away those snakes that, since the shock, became very agressive ? I cant walk on the forest like I want. Most agressive ones are easily findable, most vicious will be hidden in tall grass.",
+	"dialog.arnold.snakes_reminder": "Thanks, young guardian ! Come back to me when you are done !",
+	"dialog.arnold.snakes_complete": "May the spirit of guardians be with you !",
+	"dialog.arnold.see_shaman": "Thanks again, yound guardian ! You did me a great favor ! Here is your reward...",
+
+	"dialog.arnold.get_yoyo.desc_1": "You gotta catch yoyo spiders ? Awesome ! This forest has tons of em ! Look for the trees with cobwebs, you will need to use a shoulder charge.",
+	"dialog.arnold.get_yoyo.desc_2": "Look ! There is a tree right there, there probably is a yoyo spider in it. Try to make her fall !",
+	"dialog.arnold.get_yoyo.desc_3": "Shoulder charge tuto: press B to charge, and release it to rush !",
+	"dialog.arnold.get_yoyo.desc_4": "Use your stick !",
+	"dialog.arnold.get_yoyo.desc_5": "Now ! You can catch it !",
+	"dialog.arnold.get_yoyo.desc_6": "Congrats ! Do the same for two other yoyo spiders, and you can bring them to the Shaman !",
+	"dialog.arnold.get_yoyo.reminder": "Congrats ! Do the same for two other yoyo spiders, and you can bring them to the Shaman !",
+
+	"dialog.arnold.fish": "Hey man! Old Shaman contacted me, so you would like to know how to fish ? Thankfully, for my collection, I fished multiple fierce fishes. I am sure I can help you ! First of all, you need to locate a fishing spot. Do you see those meanders on the surface ? Get close and use your ring to start fishing !",
+	"dialog.arnold.fish_reminder": "Hey man! Old Shaman contacted me, so you would like to know how to fish ? Thankfully, for my collection, I fished multiple fierce fishes. I am sure I can help you ! First of all, you need to locate a fishing spot. Do you see those meanders on the surface ? Get close and use your ring to start fishing !",
+	"dialog.arnold.fish_complete": "That is awesome, Phaos ! You managed to get a fish of joy ! There is two others fish spots in this island, you can use your new powers to locate them ! I wish you luck !",
+
+	"dialog.arnold.ring_capture": "This ring will help you catch and collevy creatures ! You can get further informations about items and creatures youve seen in your book of animals !",
+
+
+
+	"dialog.shaman.stop_1": "Young guardian, it is too soon for you to go this far.",
+	"dialog.shaman.stop_2": "Young guardian, you are not ready. There is still so much left for you to discover on this island. Turn around at once!",
+	"dialog.shaman.stop_3": "Young insolent, you stop right there and listen to me. Have all those years of training with your wise mentor really gone to waste as you seem to eager to prove to me? Have you truly so few respect for your elders?",
+
+	"dialog.shaman.forest_1": "Welcome in, young guardian. Situation is critical, but relax ! I will help you. As of right now, your cloak is too weak, go visit my good friend Arnold, he lives in the forest. I have the power to contact you at any time, I am the Shaman, after all. Hihihi...",
+	"dialog.shaman.forest_2": "Go to the forest, yound guardian.",
+
+	"dialog.shaman.get_yoyo": "Hey, young guardian ! I am the Shaman, close to the mountain, remember me ? With this ring, you will be able to catch some creatures necessarry for the awakening of your hood ! As your first task, I ask you to bring me three yoyo spiders. I will let Arnold explain where and how to catch them. Come back to me when you are done !",
+	"dialog.shaman.get_yoyo_reminder": "Three yoyo spiders... yes, yes, this crazy collector can certainly help you find some.",
+	"dialog.shaman.get_yoyo_complete": "Hohoho... You brought me those spiders ! Perfect ! Thanks a lot, young guardian ! I will upgrade your hood...",
+
+	"dialog.shaman.joy_fish": "Yound guardian ! You could help your mentor by getting back the sacred fish of joy, Arnold can help you, he has a bungalow in each island. Use your hood to find where he is.",
+	"dialog.shaman.joy_fish_reminder": "dialog.shaman.joy_fish.repeat",
+	"dialog.shaman.joy_fish_complete": "Young guardian, you now have all the joy fishes. Find the sacred fountain to stabilize the emotionnal balance of the otherworld. Hihihi...",
+
+	"dialog.shaman.hood_pig_1": "Its the hook totem of the pig. With it, you will be able to feel any source of energy in the otherworld, some kind of compass, very practical... Hihihi...",
+	"dialog.shaman.hood_pig_2": "To try this magnificient power, press ! Check out the pace of your new hood !",
+	"dialog.shaman.hood_pig_3": "If the frequency is high, that is that you are closer, otherwise it is that you are getting farther. Use it to locate your mentor ! Hihihi...",
+	"dialog.shaman.hood_octopus": "Congratulations, young guardian. You obtained the octopus totem. With that, you will be able to swim in deep water. Hihihi...",
+
+	"dialog.shaman.ring_attract": "Linked with your guardian stick, this ring will let you attract any non-humanoid entity to you. Use it wisely ! Hihihi...",
+
+	"dialog.shaman.temple.cannot_enter": "Hihihi... Dear little guardian, you cannot go in this temple without the fishes.",
+	"dialog.shaman.temple.free_fishes": "You can now free the fishes.",
+	"dialog.shaman.temple.joy_done": "Congratulations, Phaos. You brought back peace in the joy island. You made big step on your apprentice training. Hihihi...",
+
+
+
+	"dialog.mentor.cutscene_joy_1": "So you are the evil entity my ancesters feared... I prepared for this moment for my whole life. I am the guardian of this island, and I will stop your actions NOW !",
+	"dialog.mentor.cutscene_joy_2": "I will not let you !",
+
+
+
+	"dialog.bbeg.cutscene_joy": "Tsss, another killjoy... Whatever, soon, all these persons will disappear. I can ignore him. One of my grunts will settle the score.",
+
+
+
+	"notes.lighthouse.bedroom_1": "There is a piece of paper on the desk. You recognize your mentor's handwriting.",
+	"notes.lighthouse.bedroom_2": "Phaos,",
+	"notes.lighthouse.bedroom_3": "I believe it is time for you to spread your wings.",
+	"notes.lighthouse.bedroom_4": "If you can prove to me that you do not fear the monsters under your bed anymore, then your very own staff is waiting for you.",
+
+	"notes.lighthouse.hall_1": "There is a piece of paper on the lectern. You recognize your mentor's handwriting.",
+	"notes.lighthouse.hall_2": "Phaos,",
+	"notes.lighthouse.hall_3": "I have sealed the lighthouse on my way out.",
+	"notes.lighthouse.hall_4": "If you wish to break the seal, remember the passphrase. I have 'sewn' it beneath the table with cardinal red thread.",
+
+	"notes.world.intro": "Chaos has struck. I gotta go in the differents temples before the otherworld unleashes its rage. Situation is critical, I will have to get all the help possible... the Shamane and the collector will probably help me a lot. I will need strength and bravery.. May the spirits of guardians be with me...",
+	"notes.world.temple_joy": "Im on the trails of a strange evil entity... The temple of joy got defiled, the fishs of joy got lost. I dont have anymore time to find them back, Im going straight to the sacred statue !",
+	"notes.world.temple_sadness": "This evil entity is now going in the temple of sadness... I need to prevent him from defiling it, I am sure I can do it. Otherwise, who will...",
+
+
+
+	"quest.main": "MAIN",
+	"quest.secondary": "SECONDARY",
+
+	"quest.p_explore.title": "Explore!",
+	"quest.p_explore.desc": "Explore the island in search for\nclues about the mentor's\nwhereabouts",
+	"quest.p_joy.title": "Investigate!",
+	"quest.p_joy.desc": "Explore the Temple of Joy in\nsearch for clues about the\nmentor's whereabouts! Might as\nwell fix things up on the way there.",
+
+	"quest.s_kill_snakes.title": "Kill a couple snakes",
+	"quest.s_kill_snakes.desc": "So that collector guy sent\nyou on your very first\nofficial assignment as a guardian.\nHelp make the island safer by\nmaking mulch out of those pesky\nsnakes! Try giving that tall grass\na good whack, that'll scare\nthem out.",
+	"quest.s_see_shaman.title": "Meet the Shaman",
+	"quest.s_see_shaman.desc": "There's this old hermit living\nin the mountain's damp caves.\nYou should go pay her a visit,\nmaybe she knows where\nthe mentor has gone off to.",
+	"quest.s_get_yoyo.title": "Capture some yoyo spiders",
+	"quest.s_get_yoyo.desc": "What could the Shaman possibly\nneed all those spiders for?\nWell, less questions, more\ncatching. The collector might\nknow the best spots for\nfinding those critters.",
+	"quest.s_fish_joy.title": "Catch the Fish of Joy",
+	"quest.s_fish_joy.desc": "Those jolly fellows have fled\nthe nest! Be a good\napprentice guardian and herd\nthem back home inside the\nTemple, will you?"
+}

@@ -1,0 +1,122 @@
+coordoonées settings
+
+
+
+
+IN GAME:
+
+
+état 1 (sans ouverture du menu how to play)
+
+boite totale: X 482 Y 180
+
+boite de glissement des curseurs musique settings : X 978  Y 564
+
+boite de glissement des curseurs sfx settings : X 978  Y 564
+
+(la box fais L 192  H 34 )
+
+
+
+fenetre affichage pleine écran : X 702 Y 678
+
+fenetre affichage  écran réduit : X 714 Y 684
+
+
+feed back de selection orange:
+
+"how to play" : X 1016 Y 230
+
+"sfx" : X 698 y 296
+
+" musique" : X 698 Y  472
+
+" fenetre size": X 680 Y 666
+
+"exit" : X 1090  Y 792
+
+
+
+état 2 ( avec ouverture du menu hox to play)
+
+boite d'affichage ouverte : X 70 Y 162
+
+curseurs sfx : X566 Y 378
+
+curseur musique: X 566 Y 546
+
+taille de la boite de glissement L 192  H 34 
+
+
+
+fenetre affichage pleine écran : X 290 Y 660
+
+fenetre affichage  écran réduit : X 302 Y 666
+
+
+feed back de selection orange :
+
+"how to play" : X 608 Y 112
+
+"sfx" : X 290 y 278
+
+" musique" : X 290 Y  445
+
+" fenetre size": X 272 Y 666
+
+"exit" : X 682  Y 774
+
+
+
+DETAILS DU SPRITE SHEET DES SETTINGS :
+
+0
+
+box settings état 1: 1 frame L 944 H 748
+
+748
+
+
+icone size fenetre: 2 frames L220 H 134
+
+
+882
+
+curseurs des barres : 2 états (frame 1: curseur selectionnée / frames 2: non selectionnée) L 30 H 34
+
+916
+
+
+fx orange de sélection  : 4 frames: ( frame 1 : fx de size fenetre/ frame 2: fx de curseur sfx et musique/ frame 3: fx de " how to play" / frame 4: fx " exit"
+
+L 304 H 162
+
+
+1078
+
+
+box de setting état 2 : 1 frame L 1760 H 748
+
+
+1826
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

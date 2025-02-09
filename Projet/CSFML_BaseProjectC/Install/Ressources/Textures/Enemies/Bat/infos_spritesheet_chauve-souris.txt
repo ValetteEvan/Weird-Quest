@@ -1,0 +1,19 @@
+	 SPRITES SOLOS :
+
+CS = chauve-souris
+
+- CS sleeping : 50 x 80   4frames
+- CS idle : 98 x 54    4frames
+- CS dégât : 66 x 52   1frame
+- CS waking up : 98 x 80    6frames
+- CS attaque : 94 x 92    4frames
+
+
+
+	SPRITES SHEETS :
+
+- CS sleeping : 50 x 80   4frames    0px
+- CS idle : 98 x 54    4frames     80px
+- CS dégât : 66 x 52   1frame      134px
+- CS waking up : 98 x 80    6frames    186px
+- CS attaque : 94 x 92    4frames   266px

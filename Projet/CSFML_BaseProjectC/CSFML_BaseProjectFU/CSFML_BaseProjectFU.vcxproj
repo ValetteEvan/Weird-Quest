@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{f33ab6f7-dedc-4a98-81c9-649f12a69412}</ProjectGuid>
+    <RootNamespace>CSFMLXInput</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)build\$(Configuration)-x32\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)build\$(Configuration)-x32\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)build\$(Configuration)-x64\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)build\$(Configuration)-x64\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions);</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>..\CSFML\CSFML-2.5.1-x32\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>..\CSFML\CSFML-2.5.1-x32\lib\msvc;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>csfml-audio.lib;csfml-graphics.lib;csfml-network.lib;csfml-system.lib;csfml-window.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>CRT_SECURE_NO_WARNINGS;WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions);CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>..\CSFML\CSFML-2.5.1-x32\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>..\CSFML\CSFML-2.5.1-x32\lib\msvc;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>csfml-audio.lib;csfml-graphics.lib;csfml-network.lib;csfml-system.lib;csfml-window.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_DEBUG;_CONSOLE;%(PreprocessorDefinitions);</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>..\CSFML\CSFML-2.5.1-x64\include;..\CSTL\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>..\CSFML\CSFML-2.5.1-x64\lib\msvc;..\CSTL\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>csfml-audio.lib;csfml-graphics.lib;csfml-network.lib;csfml-system.lib;csfml-window.lib;CSTL.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;NDEBUG;_CONSOLE;%(PreprocessorDefinitions);</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>..\CSFML\CSFML-2.5.1-x64\include;..\CSTL\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>..\CSFML\CSFML-2.5.1-x64\lib\msvc;..\CSTL\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>csfml-audio.lib;csfml-graphics.lib;csfml-network.lib;csfml-system.lib;csfml-window.lib;CSTL.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="bigRock.c" />
+    <ClCompile Include="biomeManager.c" />
+    <ClCompile Include="brazier.c" />
+    <ClCompile Include="credits.c" />
+    <ClCompile Include="drop_items.c" />
+    <ClCompile Include="fish_tank.c" />
+    <ClCompile Include="bossJoie.c" />
+    <ClCompile Include="bossTristesse.c" />
+    <ClCompile Include="box.c" />
+    <ClCompile Include="bullets.c" />
+    <ClCompile Include="chest.c" />
+    <ClCompile Include="cinematic_intro.c" />
+    <ClCompile Include="cinematic_outro.c" />
+    <ClCompile Include="colliders.c" />
+    <ClCompile Include="collisionManager.c" />
+    <ClCompile Include="controller.c" />
+    <ClCompile Include="current.c" />
+    <ClCompile Include="debuffTear.c" />
+    <ClCompile Include="dialogBox.c" />
+    <ClCompile Include="dungeon.c" />
+    <ClCompile Include="editor.c" />
+    <ClCompile Include="editorHUD.c" />
+    <ClCompile Include="expandingTile.c" />
+    <ClCompile Include="fadeManager.c" />
+    <ClCompile Include="enemies.c" />
+    <ClCompile Include="fish.c" />
+    <ClCompile Include="FXenemies.c" />
+    <ClCompile Include="fx_boss.c" />
+    <ClCompile Include="game_over.c" />
+    <ClCompile Include="grass.c" />
+    <ClCompile Include="hook.c" />
+    <ClCompile Include="fontManager.c" />
+    <ClCompile Include="game.c" />
+    <ClCompile Include="game_HUD.c" />
+    <ClCompile Include="inventory.c" />
+    <ClCompile Include="langManager.c" />
+    <ClCompile Include="light.c" />
+    <ClCompile Include="lighthouse.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="map.c" />
+    <ClCompile Include="math.c" />
+    <ClCompile Include="menu.c" />
+    <ClCompile Include="mouseManager.c" />
+    <ClCompile Include="moving_platform.c" />
+    <ClCompile Include="note.c" />
+    <ClCompile Include="npc.c" />
+    <ClCompile Include="openDoors.c" />
+    <ClCompile Include="opening_screen.c" />
+    <ClCompile Include="options.c" />
+    <ClCompile Include="overworld.c" />
+    <ClCompile Include="particlesManager.c" />
+    <ClCompile Include="pause.c" />
+    <ClCompile Include="player.c" />
+    <ClCompile Include="pot.c" />
+    <ClCompile Include="quest.c" />
+    <ClCompile Include="ressourcesManager.c" />
+    <ClCompile Include="ring.c" />
+    <ClCompile Include="shaderManager.c" />
+    <ClCompile Include="soundManager.c" />
+    <ClCompile Include="spidersTrees.c" />
+    <ClCompile Include="fishing_spot.c" />
+    <ClCompile Include="stateManager.c" />
+    <ClCompile Include="statue.c" />
+    <ClCompile Include="tears.c" />
+    <ClCompile Include="textureManager.c" />
+    <ClCompile Include="tools.c" />
+    <ClCompile Include="vibrationManager.c" />
+    <ClCompile Include="viewManager.c" />
+    <ClCompile Include="windowManager.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CSFML_DLL_Project\sfBaseDllProject\dirent.h" />
+    <ClInclude Include="bigRock.h" />
+    <ClInclude Include="biomeManager.h" />
+    <ClInclude Include="brazier.h" />
+    <ClInclude Include="credits.h" />
+    <ClInclude Include="drop_items.h" />
+    <ClInclude Include="fish_tank.h" />
+    <ClInclude Include="bossJoie.h" />
+    <ClInclude Include="bossTristesse.h" />
+    <ClInclude Include="box.h" />
+    <ClInclude Include="bullets.h" />
+    <ClInclude Include="chest.h" />
+    <ClInclude Include="cinematic_intro.h" />
+    <ClInclude Include="cinematic_outro.h" />
+    <ClInclude Include="colliders.h" />
+    <ClInclude Include="collisionManager.h" />
+    <ClInclude Include="controller.h" />
+    <ClInclude Include="current.h" />
+    <ClInclude Include="debuffTear.h" />
+    <ClInclude Include="dialogBox.h" />
+    <ClInclude Include="dungeon.h" />
+    <ClInclude Include="editor.h" />
+    <ClInclude Include="editorHUD.h" />
+    <ClInclude Include="expandingTile.h" />
+    <ClInclude Include="fadeManager.h" />
+    <ClInclude Include="enemies.h" />
+    <ClInclude Include="fish.h" />
+    <ClInclude Include="FXenemies.h" />
+    <ClInclude Include="fx_boss.h" />
+    <ClInclude Include="game_over.h" />
+    <ClInclude Include="grass.h" />
+    <ClInclude Include="hook.h" />
+    <ClInclude Include="fontManager.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="game_HUD.h" />
+    <ClInclude Include="inventory.h" />
+    <ClInclude Include="langManager.h" />
+    <ClInclude Include="light.h" />
+    <ClInclude Include="lighthouse.h" />
+    <ClInclude Include="map.h" />
+    <ClInclude Include="math.h" />
+    <ClInclude Include="menu.h" />
+    <ClInclude Include="mouseManager.h" />
+    <ClInclude Include="moving_platform.h" />
+    <ClInclude Include="note.h" />
+    <ClInclude Include="npc.h" />
+    <ClInclude Include="openDoors.h" />
+    <ClInclude Include="opening_screen.h" />
+    <ClInclude Include="options.h" />
+    <ClInclude Include="overworld.h" />
+    <ClInclude Include="particlesManager.h" />
+    <ClInclude Include="pause.h" />
+    <ClInclude Include="player.h" />
+    <ClInclude Include="pot.h" />
+    <ClInclude Include="quest.h" />
+    <ClInclude Include="ressourcesManager.h" />
+    <ClInclude Include="ring.h" />
+    <ClInclude Include="shaderManager.h" />
+    <ClInclude Include="soundManager.h" />
+    <ClInclude Include="spidersTrees.h" />
+    <ClInclude Include="fishing_spot.h" />
+    <ClInclude Include="stateManager.h" />
+    <ClInclude Include="statue.h" />
+    <ClInclude Include="tears.h" />
+    <ClInclude Include="textureManager.h" />
+    <ClInclude Include="tools.h" />
+    <ClInclude Include="vibrationManager.h" />
+    <ClInclude Include="viewManager.h" />
+    <ClInclude Include="windowManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Ressources\Languages\en_us.json" />
+    <None Include="..\Ressources\Languages\fr_fr.json" />
+    <None Include="..\Ressources\ressources.load" />
+    <None Include="..\Ressources\Shaders\bidon.frag" />
+    <None Include="..\Ressources\Shaders\biome_beach.frag" />
+    <None Include="..\Ressources\Shaders\biome_cave.frag" />
+    <None Include="..\Ressources\Shaders\biome_dungeon.frag" />
+    <None Include="..\Ressources\Shaders\biome_mountain.frag" />
+    <None Include="..\Ressources\Shaders\FishingGameShader.frag" />
+    <None Include="..\Ressources\Shaders\light.frag" />
+    <None Include="..\Ressources\Shaders\multiply.frag" />
+    <None Include="..\Ressources\Shaders\overlay.frag" />
+    <None Include="..\Ressources\Shaders\pause_flou.frag" />
+    <None Include="..\Ressources\Shaders\spriteRecolor.frag" />
+    <None Include="..\Ressources\Shaders\water_prototype.frag" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

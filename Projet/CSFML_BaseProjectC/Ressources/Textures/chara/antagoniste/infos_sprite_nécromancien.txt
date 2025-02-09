@@ -1,0 +1,3 @@
+	  SPRITE NÉCROMANCIEN :
+
+- nécromancien idle : 140 x 180   4 frames

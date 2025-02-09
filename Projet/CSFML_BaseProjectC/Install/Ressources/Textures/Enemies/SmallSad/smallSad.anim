@@ -1,0 +1,9 @@
+[path]
+../Ressources/Textures/Enemies/SmallSad/sprsSmallSad.png
+[end]
+// Sprite Name | left | top | width | height | Frame | TimeAnim | row
+[config]
+SmallSadMove	0	0	108	90	1	0.2	0
+SmallSadAttack	0	91	132	103	7	0.2	0
+SmallSadDead	0	194	124	136	12	0.1	0
+[end]
